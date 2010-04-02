@@ -133,9 +133,9 @@ def process_file(output_dir, filename, predictions):
                     i += 1
                 #chosen = random.randint(0, len(candidates[entity][prediction]) - 1)
                 chosen = -1
-                if i >= len(predictions[id]):
+                if prediction not in candidates[entity] and i >= len(predictions[id]):
                     sys.stderr.write("ERROR: predictions " + repr(predictions[id]) 
-                            + " not found in " + repr(candidates[entity].keys()) + "\n")
+                            + " not found in " + repr(candidates[entity].keys()) + " prediction = '" + prediction + "' %d\n" % i)
                     sys.exit(1)
                 ref.attrib["PREDICTION"] = prediction
                 ref.attrib["CHOICE"] = str(len(candidates[entity][prediction]))
@@ -169,6 +169,8 @@ def process_file(output_dir, filename, predictions):
 READ_POSTERIORS = 1
 predictions = {}
 output_dir = "output"
+if len(sys.argv) > 1:
+    output_dir = sys.argv[1]
 if not os.path.exists(output_dir):
     os.mkdir(output_dir)
 
