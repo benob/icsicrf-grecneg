@@ -1,0 +1,68 @@
+GREC'10 Named Entity Generation system for team UMUS.
+  Benoit Favre <benoit.favre@gmail.com>
+  Bernd Bohnet <bohnet@informatik.uni-stuttgart.de>
+  2010-05-03
+
+The task consists in picking the right text (referencial expression) for all
+references to persons in a text. The approach is detailed in our paper.  We
+convert the text choices to generic labels (e.g. "Gordon Smith's" => "full
+name, genitive") and run a sequence classifier (on one sequence per person) to
+predict those labels. If two texts have the same label, we alternate between
+them.
+
+Main limitations of our approach:
+- the problem does not follow a sequence but rather a graph (for example, a
+  reference should be linked to other references of the same entity but also to
+  previous references of other entities; references that involve multiple
+  entities should be linked to all of them).
+- we cannot decide between two texts that have the same label.
+- the approach tends to overgenerate pronouns instead of names.
+- syntactic features would help a lot but they are hard to extract without
+  knowning the text.
+
+1) generate classifier data:
+python grec_to_crf.py -t train/*.xml > classifier.training_data
+python grec_to_crf.py -t test/*.xml > classifier.test_data
+
+2) train classifier:
+perl generate_template.pl <number_of_columns> > classifier.template
+crf_learn classifier.template classifier.training_data classifier.model
+
+3) run classifier on test:
+crf_test -v 2 -m classifier.model < classifier.test_data > classifier.out
+python grec_to_crf.py -p output_directory test/*.xml
+
+4) generate html debug info:
+python grec_to_crf.py -h test/*.xml > debug.html
+
+See run_test.sh for the actual script we ran for the eval. Note
+that we optimized the -c parameter of the CRF model in order to
+maximize string accuracy.
+
+lex150k.en defines possible part-of-speech tags for each word with frequency
+from a corpus, giving an idea of which tag is the most likely out-of-context.
+This file was borrowed from LIA_TAGG (http://lia.univ-avignon.fr/fileadmin/
+documents/Users/Intranet/chercheurs/bechet/download_fred.html).
+
+Evaluation on the development set:
+
+perl geval.pl Training-Data/dev/ output.dev/
+
+total slots                             : 907
+reg08 type matches                      : 770
+reg08 type accuracy                     : 0.848952590959206
+reg08 type matches including embedded   : 770
+reg08 type precision                    : 0.834236186348862
+reg08 type recall                       : 0.82089552238806
+total peer REFs                         : 923
+total reference REFs                    : 938
+string matches                          : 742
+string accuracy                         : 0.818081587651599
+mean edit distance                      : 0.449834619625138
+mean normalised edit distance           : 0.170409163297807
+BLEU 1 score                            : 0.8191
+BLEU 2 score                            : 0.8555
+BLEU 3 score                            : 0.8716
+BLEU 4 score                            : 0.8817
+NIST score                              : 6.0349
+
