@@ -4,7 +4,7 @@
 =Introduction=
 
 The [http://www.nltg.brighton.ac.uk/research/genchal10/grec/ task] consists in picking the right text (referencial expression) for all
-references to persons in a text. The approach is detailed in our paper.  We
+references to persons in a text. The approach is detailed in our [http://icsicrf-grecneg.googlecode.com/files/acl2010.pdf paper].  We
 convert the text choices to generic labels (e.g. "Gordon Smith's" => "full
 name, genitive") and run a sequence classifier (on one sequence per person) to
 predict those labels. If two texts have the same label, we alternate between
