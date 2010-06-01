@@ -1,4 +1,5 @@
 #summary The icsi-crf system at grec'09
+#labels Featured,Phase-Deploy
 
 This page documents the system for the GREC-NEG 2009 evaluation campaign.
 
