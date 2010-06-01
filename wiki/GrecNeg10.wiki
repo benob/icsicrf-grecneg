@@ -1,0 +1,112 @@
+#summary The UMUS System at GREC-NEG 2010
+#labels Featured,Phase-Deploy
+
+=Introduction=
+
+The [http://www.nltg.brighton.ac.uk/research/genchal10/grec/ task] consists in picking the right text (referencial expression) for all
+references to persons in a text. The approach is detailed in our paper.  We
+convert the text choices to generic labels (e.g. "Gordon Smith's" => "full
+name, genitive") and run a sequence classifier (on one sequence per person) to
+predict those labels. If two texts have the same label, we alternate between
+them.
+
+Main limitations of our approach:
+  * the problem does not follow a sequence but rather a graph (for example, a reference should be linked to other references of the same entity but also to previous references of other entities; references that involve multiple entities should be linked to all of them).
+  * we cannot decide between two texts that have the same label.
+  * the approach tends to overgenerate pronouns instead of names.
+  * syntactic features would help a lot but they are hard to extract without knowning the text.
+
+=Preliminaries=
+
+The system depends on a sequence classifier ([http://crfpp.sourceforge.org CRF++]), on python 2.6 and perl. To install CRF++, follow the instructions on its web page.
+
+=Running the system=
+
+  # generate classifier data:
+{{{
+python grec_to_crf.py -t train/*.xml > classifier.training_data
+python grec_to_crf.py -t test/*.xml > classifier.test_data
+}}}
+  # train classifier:
+{{{
+perl generate_template.pl <number_of_columns> > classifier.template
+crf_learn classifier.template classifier.training_data classifier.model
+}}}
+  # run classifier on test:
+{{{
+crf_test -v 2 -m classifier.model < classifier.test_data > classifier.out
+python grec_to_crf.py -p output_directory test/*.xml
+}}}
+  # generate html debug info (optional):
+{{{
+python grec_to_crf.py -h test/*.xml > debug.html
+}}}
+
+See `run_test.sh` for the actual script we ran for the eval. Note
+that we optimized the -c parameter of the CRF model in order to
+maximize string accuracy.
+
+`lex150k.en` defines possible part-of-speech tags for each word with frequency
+from a corpus, giving an idea of which tag is the most likely out-of-context.
+This file was borrowed from [http://lia.univ-avignon.fr/fileadmin/documents/Users/Intranet/chercheurs/bechet/download_fred.html LIA_TAGG].
+
+=Evaluation=
+
+During the evaluation, we ran these commands:
+{{{
+# create datasets
+python grec_to_crf.py -t ../Training-Data/train/*/*.xml > neg10_new.train
+python grec_to_crf.py -t ../Training-Data/dev/*/*.xml > neg10_new.dev
+python grec_to_crf.py -t ../GREC-NEG-10_TEST_DATA/*/*.xml > neg10_new.test
+cat neg10_new.train neg10_new.dev > neg10_new.train+dev
+perl generate_template.pl `head -1 neg10_new.train | awk '{print NF}'` > neg10_new.template
+
+# process dev
+crf_learn -c 0.07 -f 5 neg10_new.template neg10_new.train neg10_new.model
+crf_test -v 2 -m neg10_new.model neg10_new.dev | python grec_to_crf.py -p output.dev/ ../Training-Data/dev/*/*.xml
+
+# process test
+crf_learn -c 0.07 -f 5 neg10_new.template neg10_new.train+dev neg10_new.model+dev
+crf_test -v 2 -m neg10_new.model+dev neg10_new.test | python grec_to_crf.py -p output.test/ ../GREC-NEG-10_TEST_DATA/*/*.xml
+
+# evaluate on dev
+crf_test -m neg10_new.model neg10_new.dev | awk '/./{if($NF==$(NF-1)){ok++}n++}END{print ok,n,ok/n}'
+../Evaluation-Software/geval.pl ../Training-Data/dev/ output.dev/
+}}}
+
+Note that we used the dev set as training data for the test set, which hopefully increased final performance. Also, we looped over values of the -c parameter (the generalization hyperparameter in CRFs) from 0.01 to 2 using steps of 0.01 and used the one with the highest string accuracy, that is 0.07. It appears to be the same for the '09 and '10 systems, but different feature sets (or templates) lead to somewhat different optimal values. The optimization of this parameter on the dev set makes the results optimistic compared to what is obtained on the test set.
+
+Results on the development set (given a model from the training data only) :
+
+{{{
+perl geval.pl Training-Data/dev/ output.dev/
+
+total slots                             : 907
+reg08 type matches                      : 770
+reg08 type accuracy                     : 0.848952590959206
+reg08 type matches including embedded   : 770
+reg08 type precision                    : 0.834236186348862
+reg08 type recall                       : 0.82089552238806
+total peer REFs                         : 923
+total reference REFs                    : 938
+string matches                          : 742
+string accuracy                         : 0.818081587651599
+mean edit distance                      : 0.449834619625138
+mean normalised edit distance           : 0.170409163297807
+BLEU 1 score                            : 0.8191
+BLEU 2 score                            : 0.8555
+BLEU 3 score                            : 0.8716
+BLEU 4 score                            : 0.8817
+NIST score                              : 6.0349
+}}}
+
+Results on the test set (according to the official [http://www.itri.brighton.ac.uk/home/Anja.Belz/Publications/GREC-Report-10.pdf paper]):
+{{{
+reg08 type precision                    : 0.8071
+reg08 type recall                       : 0.7831
+string accuracy                         : 0.7851
+mean edit distance                      : 0.6063
+mean normalised edit distance           : 0.2019
+BLEU 3 score                            : 0.7968
+NIST score                              : 7.4986
+}}}
