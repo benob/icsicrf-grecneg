@@ -18,7 +18,7 @@ Main limitations of our approach:
 
 =Preliminaries=
 
-The system depends on a sequence classifier ([http://crfpp.sourceforge.org CRF++]), on python 2.6 and perl. To install CRF++, follow the instructions on its web page.
+The system depends on a sequence classifier ([http://crfpp.sourceforge.net CRF++]), on python 2.6 and perl. To install CRF++, follow the instructions on its web page.
 
 =Running the system=
 
