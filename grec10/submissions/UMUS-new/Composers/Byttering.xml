@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="938">
+<TITLE>Byttering</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Byttering</REFEX></REF>
+ (also Bytering, Bytteryng, or Biteryng; possible first name Thomas) (fl. c. 1400 - 1420) was an English composer during the transitional period from Medieval to Renaissance styles. Five of 
+<REF MENTION="2" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ compositions have survived, all of them in the Old Hall Manuscript.
+</PARAGRAPH>
+
+<PARAGRAPH>
+A possible identification of 
+<REF MENTION="3" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Byttering</REFEX></REF>
+ with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">a Thomas Byteryng</REFEX></REF>
+ has been made. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Byteryng</REFEX></REF>
+ was a canon at Hastings Castle between 1405 and 1408, and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX></REF>
+ was a rector somewhere in London in 1414. There is no information on 
+<REF MENTION="4" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Byttering</REFEX></REF>
+ in the Old Hall Manuscript other than that 
+<REF MENTION="5" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ surname is attached to several pieces. Those pieces stand out from many of the works in the manuscript by their relatively advanced stylistic traits.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="6" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ music includes three mass sections -- two Glorias and a Credo -- a motet based on Nesciens Mater, and a substantial three-voice, isorhythmic wedding motet, En Katerine solennia/Virginalis contio/Sponsus amat sponsum, 
+<REF MENTION="7" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ best-known work, which was almost certainly written for the wedding on June 2, 1420, of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">King Henry V</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Catherine of Valois</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+The four-voice Gloria, No. 18 in the Old Hall MS, is one of the most complex canons of the early 15th century, and represents what was probably the extreme of stylistic differentiation between English and continental practice. Canons in continental sources are extremely rare, but there are seven in the Old Hall MS, and 
+<REF MENTION="8" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ is the only one with the standard arrangement of the same tune in all four voices.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="0">the composer</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Byttering's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Byttering</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Byteryng's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">a Thomas Byteryng's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Byteryng</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">a Thomas Byteryng</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">King Henry V's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">King Henry V</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Catherine of Valois's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Catherine of Valois</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

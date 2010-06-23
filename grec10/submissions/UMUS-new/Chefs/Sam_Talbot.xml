@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="925">
+<TITLE>Sam Talbot</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Sam Talbot</REFEX></REF>
+ (born December 27, 1977) is a Sicilian-American chef from Charlotte, North Carolina, best known as a semi-finalist on Season 2 of Bravo's Top Chef, eventually placing third. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ also became the fan favorite for the season. 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ received 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ education from Johnson &amp; Wales University in Charleston, South Carolina. After working 
+<REF MENTION="5" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ way up to production chef at Dean and DeLuca, 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ worked under 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">James Burns, the acclaimed head chef at Charleston’s J. Bistro</REFEX></REF>
+. In Charleston, 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ also met 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Sarah Vida</REFEX></REF>
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX></REF>
+ later became 
+<REF MENTION="8" SYNFUNC="subj-det_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Talbot</REFEX></REF>
+ business partner in Williamsburgh Cafe after 
+<REF MENTION="9" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ moved to New York City. In New York City, 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ has held the position of executive chef at several restaurants, such as the Black Duck, Williamsburgh Cafe, and Punch. Recently, 
+<REF MENTION="11" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was planning on opening a restaurant named Spitzer's Corner, but when 
+<REF MENTION="12" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ could not agree with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3,4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3,4">business partners Will and Rob Shamlian</REFEX></REF>
+ with the direction of the restaurant, 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,3,4"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,3,4">they</REFEX></REF>
+ separated. 
+<REF MENTION="13" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is a diabetic and 
+<REF MENTION="14" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ wears an insulin pump attached to 
+<REF MENTION="15" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ leg.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="16" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Sam</REFEX></REF>
+ returned to Top Chef for a special "Four Star All Stars" episode along with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Elia Aboumrad</REFEX></REF>
+, 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="6"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Marcel Vigneron</REFEX></REF>
+, and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="7"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">Ilan Hall</REFEX></REF>
+. 
+<REF MENTION="17" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Talbot</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="5,6,7"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="5,6,7">the other three</REFEX></REF>
+ were defeated by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="8,9,10,11"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="8,9,10,11">Tiffani Faison, Harold Dieterle, Stephen Asprinio, and Dave Martin</REFEX></REF>
+ (
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="8,9,10,11"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="8,9,10,11">season 1</REFEX></REF>
+).
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="18" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Sam</REFEX></REF>
+ has since opened up a restaurant called Lodge.
+</PARAGRAPH>
+
+<PARAGRAPH>
+On July 30, 2008 People Weekly reported 
+<REF MENTION="19" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ engagement to 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="12"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="12">Colombian model and t-shirt designer Paola Guerro</REFEX></REF>
+.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Sam Talbot's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Sam's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Talbot's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Sam Talbot</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Sam</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Talbot</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0,3,4">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0,3,4">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,3,4">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,3,4">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,3,4">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">James Burns, the acclaimed head chef at Charleston’s J. Bistro</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="12">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="12">Colombian model and t-shirt designer Paola Guerro's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="12">Colombian model and t-shirt designer Paola Guerro</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="12">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="12">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="12">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="12">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Sarah Vida's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Sarah Vida</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3,4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3,4">business partners Will and Rob Shamlian's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3,4">business partners Will and Rob Shamlian</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3,4">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3,4">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3,4">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3,4">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">Elia Aboumrad's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Elia Aboumrad</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="5,6,7">the other three</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5,6,7">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5,6,7">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5,6,7">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5,6,7">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5,6,7">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="6">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="6">Marcel Vigneron's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Marcel Vigneron</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="6">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="6">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="7">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="7">Ilan Hall's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">Ilan Hall</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="7">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="7">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="8,9,10,11">season 1</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="8,9,10,11">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="8,9,10,11">Tiffani Faison, Harold Dieterle, Stephen Asprinio, and Dave Martin</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="8,9,10,11">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="8,9,10,11">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8,9,10,11">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8,9,10,11">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

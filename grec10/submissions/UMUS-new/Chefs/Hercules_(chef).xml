@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="910">
+<TITLE>Hercules (chef)</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Hercules</REFEX></REF>
+ was the personal chef to 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">General George Washington</REFEX></REF>
+. When 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Washington</REFEX></REF>
+ was elected president 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX></REF>
+ was to bring one of 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX></REF>
+ household slaves with 
+<REF MENTION="5" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Washington</REFEX></REF>
+ and 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Washington</REFEX></REF>
+ chose 
+<REF MENTION="2" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Hercules</REFEX></REF>
+. 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was held as the property of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1,2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1,2">George and Martha Washington</REFEX></REF>
+ and 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ was the head cook at 
+<REF MENTION="8" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX></REF>
+ estate Mount Vernon for many years before moving to run the first presidential kitchen.
+</PARAGRAPH>
+
+<PARAGRAPH>
+It has been said that 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Hercules</REFEX></REF>
+ was such a great chef that 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was able to make over 100 dollars a year selling extra food that 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ made in Philadelphia. While no one is certain that the image is of 
+<REF MENTION="8" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Hercules</REFEX></REF>
+, there is a painting from the same time period of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="7"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="7">an African American chef</REFEX></REF>
+ that may be 
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Hercules</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Hercules</REFEX></REF>
+ worked with a number of other African American slaves as well as white servants at the Presidential Mansion in what is now the greens at the Liberty Bell's building/museum. However, late in 1797 at the end of 
+<REF MENTION="9" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Washington's</REFEX></REF>
+ second term in office, 
+<REF MENTION="11" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Hercules</REFEX></REF>
+ escaped to freedom. 
+<REF MENTION="12" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was a runaway slave for several years. 
+<REF MENTION="10" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Washington's</REFEX></REF>
+ will stated that upon 
+<REF MENTION="1" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="genitive" REG08-TYPE="common" ENTITY="2"> <REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX REG08-TYPE="pronoun" CASE="genitive">his</REFEX></REF> wife's</REFEX></REF>
+ death, all of the slaves held by 
+<REF MENTION="2" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1,2"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="1,2">either of them</REFEX></REF>
+ should be freed, resulting in 
+<REF MENTION="13" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ emancipation in 1802.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="3"> <REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX REG08-TYPE="pronoun" CASE="genitive">his</REFEX></REF> wife</REFEX></REF>
+ died while 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="4,5,6"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4,5,6">they</REFEX></REF>
+ were young. 
+<REF MENTION="15" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Hercules</REFEX></REF>
+ possibly remarried and 
+<REF MENTION="16" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ fathered at least one more child. According to historical documents 
+<REF MENTION="17" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was a vibrant individual 
+<REF MENTION="18" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX></REF>
+ was interested in nice clothing and other fine things in life.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="0"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"></REF>personal chef</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Hercules'</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Hercules's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Hercules</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0,3">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0,3">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,3">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,3">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,3">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">General George Washington's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Washington's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">General George Washington</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Washington</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1,2">either of them</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1,2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1,2">George and Martha Washington's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1,2">George and Martha Washington</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1,2">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1,2">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">who</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="common" ENTITY="2"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"></REF>wife's</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="3"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>wife</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="4,5,6"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0,3"></REF>three children</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4,5,6">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4,5,6">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4,5,6">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4,5,6">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4,5,6">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="7">an African American chef</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="7">_</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

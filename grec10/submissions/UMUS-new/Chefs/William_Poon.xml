@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="929">
+<TITLE>William Poon</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Chef William Poon</REFEX></REF>
+ is one of the top masterchefs in the UK, and 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ launched the Poons restaurant chain in London.
+</PARAGRAPH>
+
+<PARAGRAPH>
+The restaurant chain, first opened in the 60's, consisted of 5 branches at its peak, each branch with its own speciality and run by different family members. It was acclaimed for its authentic Cantonese Menu and was famous for the Chinese wind-dried sausages (臘腸) and wind-dried duck. It was also one of the first Chinese restaurants in London's Chinatown to introduce Clay Pot Rice (煲仔飯).
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Poon</REFEX></REF>
+ personally ran the kitchen in Covent Garden (one Michelin star 1979-80) before it moved to Poons in the City in 1992. The restaurant in the city was modelled on the design of Hong Kong's Luk Yew Tree House and had a 80-seat fast food section. Poons have been patronised by celebrities such as 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Frank Sinatra</REFEX></REF>
+ and many theatre stars among the Covent Garden theatres.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Poon</REFEX></REF>
+ is now officially retired and all the chain restaurants are closed, but 
+<REF MENTION="5" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ wind-dried products are still widely available in UK supermarkets.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ continues to work in support of community projects and 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ is currently the Chair of the Euro-Chinese Literature Association (歐華文聯), and the Permanent President of Shunde UK Association. 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ also helps with promoting Chinese cooking standards in the UK and 
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ has been on the judging panels for the Chinese Masterchef competition organised by Westminster City Council. 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was one of the finalists for the Promotion of Excellence in Chinese Cuisine at the Pearl Award in 2006.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Chef William Poon's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Poon's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">William Poon's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Chef William Poon</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Poon</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">William Poon</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Frank Sinatra's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Frank Sinatra</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

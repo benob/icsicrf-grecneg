@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="922">
+<TITLE>Rachel Klein (chef)</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Chef Rachel Klein</REFEX></REF>
+ is one of America's top female chefs.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ has received much praise on 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX></REF>
+ take on global cuisine and Asian inspired dishes. 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ was named 2006 "Best New Chef of Boston" in Boston Magazine as well as winning One of Esquire Magazine's 20 best new restaurants for OM Restaurant in Harvard Square, Cambridge, MA.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Chef Rachel Klein's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Chef Rachel Klein</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

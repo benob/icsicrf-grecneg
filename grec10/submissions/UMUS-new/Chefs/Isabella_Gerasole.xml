@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="911">
+<TITLE>Isabella Gerasole</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Isabella Gerasole</REFEX></REF>
+ was born October 5, 1995. Along with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Olivia</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Olivia</REFEX></REF>
+, 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Isabella</REFEX></REF>
+ hosts the cooking website for kids and teens, Spatulatta.
+</PARAGRAPH>
+
+<PARAGRAPH>
+In 2006, 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0,1">Isabella and Olivia</REFEX></REF>
+ won the most prestigious award in the food industry, the James Beard Foundation Award, for "Best Webcast." In 2007 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1">they</REFEX></REF>
+ were nominated again and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0,1">_</REFEX></REF>
+ presented at the awards.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1">they</REFEX></REF>
+ have made special appearances on nurmerous talk shows including The View, The Tonight Show with Jay Leno, Rachael Ray, The Today Show, and local news networks.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Isabella</REFEX></REF>
+ has also been seen on National Public Radio as well as 
+<REF MENTION="1" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Whoopi Goldberg's</REFEX></REF>
+ talk show.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1">they</REFEX></REF>
+ make several appearances in New York and Chicago promoting 
+<REF MENTION="6" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0,1"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,1">their</REFEX></REF>
+ book as well as frequent booksignings.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1">they</REFEX></REF>
+ currently have a cookbook, "The Spatulatta Cookbook" out.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="8" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0,1"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,1">their</REFEX></REF>
+ father is 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">WBBM-TV anchor Vince Gerasole</REFEX></REF>
+.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Isabella Gerasole's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Isabella's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Isabella Gerasole</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Isabella</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0,1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0,1">Isabella and Olivia's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0,1">Isabella and Olivia</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0,1">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,1">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>sister</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Olivia's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Olivia</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Whoopi Goldberg's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Whoopi Goldberg</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">WBBM-TV anchor Vince Gerasole's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">WBBM-TV anchor Vince Gerasole</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

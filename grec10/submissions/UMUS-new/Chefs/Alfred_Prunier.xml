@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="901">
+<TITLE>Alfred Prunier</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Alfred Prunier</REFEX></REF>
+ (1848, Yerville, France - 1925) was a French chef and restaurant owner.
+</PARAGRAPH>
+
+<PARAGRAPH>
+In 1872, 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Prunier</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Catherine</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Catherine</REFEX></REF>
+, opened a Parisian restaurant that bore 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ name in the French capital (today the restaurant operates under the name Goumard.) 
+<REF MENTION="5" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ restaurant specialized in seafood and grilled entrées. The quality of the cuisine, the service, and the interior decor quickly made the restaurant a success. Famous writers such as 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Oscar Wilde</REFEX></REF>
+, actors such as 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Sarah Bernhardt</REFEX></REF>
+, politicians such as 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Clemenceau</REFEX></REF>
+, and aristocrats including Russian royalty were regularly seen there.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Émile</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Émile</REFEX></REF>
+, opened another Prunier restaurant on the avenue Victor Hugo in Paris in 1924, which attracted writers such as 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="6"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">F. Scott Fitzgerald</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="7"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">Ernest Hemingway</REFEX></REF>
+. After 
+<REF MENTION="7" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Prunier's</REFEX></REF>
+ death in 1925, 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="8"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">Simone</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="8"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">Simone</REFEX></REF>
+, took up the business and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="8"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="8">_</REFEX></REF>
+ opened a third restaurant in London. The second restaurant still operates, but the London restaurant closed in 1976.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Alfred Prunier's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Prunier's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Alfred Prunier</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Prunier</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>wife</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Catherine's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Catherine</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Oscar Wilde's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Oscar Wilde</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Sarah Bernhardt's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Sarah Bernhardt</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">Clemenceau's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Clemenceau</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="5"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>son</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">Émile's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Émile</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="6">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="6">F. Scott Fitzgerald's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">F. Scott Fitzgerald</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="6">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="6">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="7">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="7">Ernest Hemingway's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">Ernest Hemingway</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="7">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="7">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="8"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>daughter</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="8">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="8">Simone's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">Simone</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="8">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="8">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

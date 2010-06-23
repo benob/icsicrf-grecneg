@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="953">
+<TITLE>Johannes Legrant</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Johannes Legrant</REFEX></REF>
+ (fl. c. 1420 – 1440) was a French or Burgundian composer of the early Renaissance.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Little is known for certain about 
+<REF MENTION="2" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ life, and as is common for composers of the early 15th century, there are problems of identification in the existing records. In 1423 and 1424, 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ may have been a vicar at St. Vincent in Soignes, a collegiate church with an active music establishment. Antwerp Cathedral's records mention 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">a 'Heer Jan le Grant'</REFEX></REF>
+ as a singer there from 1441 to 1443, and this may also have been 
+<REF MENTION="4" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Johannes</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+All of 
+<REF MENTION="5" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Johannes's</REFEX></REF>
+ surviving music is vocal. 
+<REF MENTION="6" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ style is related to that of the early Burgundian School, and resembles some of the early work of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Guillaume Dufay</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Gilles Binchois</REFEX></REF>
+; influence may have gone either way. 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ wrote elegant melodic lines in the Burgundian manner, and 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ used the secular forms which were typical of the Burgundians: the rondeau and the ballade. Imitation is also prominent in 
+<REF MENTION="9" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ work.
+</PARAGRAPH>
+
+<PARAGRAPH>
+In addition to 
+<REF MENTION="10" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ secular music –- four rondeaux and a ballade –- four sacred pieces have survived, including two settings of the Gloria of the mass, for two and three voices, and a three voice Credo.
+</PARAGRAPH>
+
+<PARAGRAPH>
+It is not known if 
+<REF MENTION="11" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is related to 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Guillaume Legrant</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Guillaume Legrant</REFEX></REF>
+. The one ballade attributed to 
+<REF MENTION="13" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Legrant</REFEX></REF>
+ has also been suggested to be the work of 
+<REF MENTION="3" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Guillaume Legrant</REFEX></REF>
+ based on stylistic characteristics.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Johannes Legrant's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Johannes's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Legrant's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Johannes Legrant</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Johannes</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Legrant</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">a 'Heer Jan le Grant'</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">a 'Heer Jan le Grant</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Guillaume Dufay's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Guillaume Dufay</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Gilles Binchois's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Gilles Binchois</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="4">a slightly better-known contemporary of<REF MENTION="?" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF></REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">Guillaume Legrant's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">Guillaume's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Guillaume Legrant</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Guillaume</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

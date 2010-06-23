@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="904">
+<TITLE>Carolynne Tilga</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Carolynne Tilga</REFEX></REF>
+, born December 28, 1960 in Bronxville, New York, U.S., is a consultant for Internet-based businesses.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Following extensive culinary training at La Varenne, Paris, 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Tilga</REFEX></REF>
+ started an "After School Chefs" program for young children in Santa Fe, New Mexico which focuses on organic cooking and family participation. 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ is currently writing a series of interactive children's cook books.
+</PARAGRAPH>
+
+<PARAGRAPH>
+In 1992, 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Tilga</REFEX></REF>
+ helped test the original production of "sky surf boards." From 1990-1995 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ competed in world-class sky diving events, and 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ participated in the World Record 500-person formation dive. 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ is an accomplished Ski Racer, placing first in the 2007 New Mexico Corporate Cup event. 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ is a NASTAR Platinum Champion ski racer and author of a popular website on the subject at carolynnetilgachandler.com. 
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+'s also a Western pleasure horse rider. A "fitness and nutrition addict," 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Tilga</REFEX></REF>
+ lives in Santa Fe, New Mexico with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="1"> <REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX REG08-TYPE="pronoun" CASE="genitive">her</REFEX></REF> husband</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2,3"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="2,3"> <REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX REG08-TYPE="empty" CASE="no_case">_</REFEX></REF> two children</REFEX></REF>
+.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Carolynne Tilga's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Tilga's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Carolynne Tilga</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Tilga</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>husband</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="2,3"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>two children</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2,3">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2,3">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2,3">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2,3">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2,3">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

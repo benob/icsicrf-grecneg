@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="902">
+<TITLE>Allegra McEvedy</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Allegra Sarah Bazzett McEvedy MBE</REFEX></REF>
+ is a British chef and the cofounder of Leon restaurants. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ is the daughter of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">the famous psychiatrist, demographer and historian, Colin McEvedy</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+During a spell in the USA, facilitated by being awarded a special visa as 'an alien with extraordinary ability in the culinary arts', 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">McEvedy</REFEX></REF>
+ worked at Rubicon in San Francisco, and 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ ran the kitchen at Robert De Niro's famous New York restaurant Tribeca Grill.
+</PARAGRAPH>
+
+<PARAGRAPH>
+In May 2006, 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">McEvedy</REFEX></REF>
+ signed a Civil Partnership with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">jeweller Susi Smither</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">jeweller Susi Smither</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">McEvedy</REFEX></REF>
+ has also appeared on the 2008 BBC television series The Supersizers Go... with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Giles Coren</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Sue Perkins</REFEX></REF>
+ recreating historical British dishes such as Eel pie, Paraffin Cake and Tansy.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">McEvedy</REFEX></REF>
+ was appointed Member of the Order of the British Empire (MBE) in the 2008 Birthday Honours.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">McEvedy's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Allegra Sarah Bazzett McEvedy MBE</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">McEvedy</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">the famous psychiatrist, demographer and historian, Colin McEvedy</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="2"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>partner of four years</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">jeweller Susi Smither's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">jeweller Susi Smither</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Giles Coren's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Giles Coren</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">Sue Perkins's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Sue Perkins</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

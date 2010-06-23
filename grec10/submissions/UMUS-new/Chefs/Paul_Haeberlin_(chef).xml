@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="920">
+<TITLE>Paul Haeberlin (chef)</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Paul Haeberlin</REFEX></REF>
+ (November 24, 1923 - May 10, 2008) was a French chef and restaurateur. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was the owner of Auberge de l’Ill, classical French restaurant, which was first awarded a 3-star Michelin Rating in 1967 and continues to be one of the oldest 3-star establishments in France.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Haeberlin</REFEX></REF>
+ was born in the village of Illhaeusern, which is located in the Alsace region of France. 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1,2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">they</REFEX></REF>
+ had opened a small inn and cafe, called L’Arbre Vert, in the town back in 1878. 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ became an apprentice at the Hôtel de la Pépinière in Ribeauvillé, France, when 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was just 14 years old. 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ next moved to Paris where 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ worked in restaurants such as Poccardi and Rôtisserie Périgourdine.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ had to give up cooking during World War II when 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was drafted into the French army. 
+<REF MENTION="11" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ family's inn, the L’Arbre Vert, which was opened by 
+<REF MENTION="2" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1,2"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1,2">them</REFEX></REF>
+ in 1878, was destroyed in a bombing raid in 1945 near the end of the war. The family rebuilt it after World War II, renaming the restaurant Auberge de l’Ill.
+
+<REF MENTION="13" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Haeberlin</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Jean-Pierre Haeberlin</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Jean-Pierre Haeberlin</REFEX></REF>
+, a decorative artist, set over operations of the new restaurant.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Haeberlin's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Paul Haeberlin's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Haeberlin</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Paul Haeberlin</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1,2"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>grandparents</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1,2">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1,2">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1,2">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="3"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>brother</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Jean-Pierre Haeberlin's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Jean-Pierre Haeberlin</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

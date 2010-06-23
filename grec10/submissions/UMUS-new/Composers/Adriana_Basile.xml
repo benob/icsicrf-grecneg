@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="932">
+<TITLE>Adriana Basile</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Adriana Basile</REFEX></REF>
+ (c. 1590 – c. 1640) was an Italian composer and singer, born in Posillipo, and 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Basile</REFEX></REF>
+ died in Rome. From 1610 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ worked for the Gonzagas in Mantua. Members of 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Basile's</REFEX></REF>
+ family also worked for the court, including 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1,2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1,2">Giovanni Battista Basile, a poet, Lelio Basile, a composer</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="1,2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">who</REFEX></REF>
+, and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3,4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3,4">Margherita and Vittoria</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="3,4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3,4">Margherita and Vittoria</REFEX></REF>
+, 
+<REF MENTION="3" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="3,4"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3,4">who</REFEX></REF>
+ were both singers. 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Mutio Baroni</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Mutio Baroni</REFEX></REF>
+, and 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="6,7,8"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="6,7,8"> <REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX REG08-TYPE="empty" CASE="no_case">_</REFEX></REF> son Camillo, and <REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX REG08-TYPE="empty" CASE="no_case">_</REFEX></REF> two daughters, Leonora and Caterina</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="6,7,8"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6,7,8">who</REFEX></REF>
+ were also at the court. 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="7"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">Leonora</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="8"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">Caterina</REFEX></REF>
+ were both successful singers in 
+<REF MENTION="1" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="7,8"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="7,8">their</REFEX></REF>
+ own right. 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="9"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="9">Claudio Monteverdi</REFEX></REF>
+ declared that 
+<REF MENTION="11" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ was a more talented singer than 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="10"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="10">Francesca Caccini</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="10"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="10">who</REFEX></REF>
+ was at that time at the Medici court.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="11"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="11">Duke Vincenzo Gonzaga</REFEX></REF>
+ awarded 
+<REF MENTION="12" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">her</REFEX></REF>
+ a barony, and 
+<REF MENTION="13" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ was also well regarded by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="12"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="12">Francesco Gonzaga</REFEX></REF>
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="12"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="12">Francesco Gonzaga</REFEX></REF>
+. While still working for the Mantuan court, 
+<REF MENTION="14" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ travelled to Florence, Rome, Naples, and Modena. 
+<REF MENTION="15" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ performed in 
+<REF MENTION="1" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="13"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="13">Alessandro Guarini's</REFEX></REF>
+ Licori, ovvero L’incanto d’amore. In 1626 
+<REF MENTION="16" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ retired from the service of the Gonzagas, and 
+<REF MENTION="17" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ moved to Naples and later Rome.
+</PARAGRAPH>
+
+<PARAGRAPH>
+None of 
+<REF MENTION="18" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Basile's</REFEX></REF>
+ music survives, but 
+<REF MENTION="19" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ is known to have improvised on poetry, including in a competition with 
+<REF MENTION="3" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="10"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="10">Francesca Caccini</REFEX></REF>
+ in November 1623.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Adriana Basile's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Basile's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Adriana Basile</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Basile</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1,2"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>brothers</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1,2">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1,2">Giovanni Battista Basile, a poet, Lelio Basile, a composer</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1,2">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1,2">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="10">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="10">Caccini's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="10">Francesca Caccini's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="10">Caccini</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="10">Francesca Caccini</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="10">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="10">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="10">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="10">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="11">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="11">Duke Vincenzo Gonzaga's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="11">Vincenzo's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="11">Duke Vincenzo Gonzaga</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="11">Vincenzo</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="11">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="11">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="11">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="11">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="12"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="11"></REF>son</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="12">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="12">Francesco Gonzaga's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="12">Francesco Gonzaga</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="12">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="12">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="12">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="12">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="13">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="13">Alessandro Guarini's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="13">Alessandro Guarini</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="13">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="13">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="13">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="13">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="3,4"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>sisters</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3,4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3,4">Margherita and Vittoria's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3,4">Margherita and Vittoria</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3,4">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3,4">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3,4">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3,4">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="5"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>husband</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">Mutio Baroni's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Mutio Baroni</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="6,7,8"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>son Camillo, and<REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>two daughters, Leonora and Caterina</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="6,7,8"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>three children</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="6,7,8">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="6,7,8">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="6,7,8">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6,7,8">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6,7,8">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="7">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="7">Leonora's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">Leonora</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="7">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="7">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="7,8">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="7,8">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="7,8">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7,8">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7,8">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="8">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="8">Caterina's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">Caterina</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="8">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="8">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="9">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="9">Claudio Monteverdi's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="9">Claudio Monteverdi</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="9">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="9">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="9">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="9">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

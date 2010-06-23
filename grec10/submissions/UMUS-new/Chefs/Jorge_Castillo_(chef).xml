@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="916">
+<TITLE>Jorge Castillo (chef)</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jorge G. Castillo</REFEX></REF>
+ is a Cuban-American chef and television personality. Born in Cayo la Rosa near Bauta, Cuba, 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Castillo</REFEX></REF>
+ came to the United States in the Mariel Boatlift of 1980). 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is a member of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0,1,2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0,1,2">the Three Guys From Miami</REFEX></REF>
+, a group that promotes Cuban culture and cuisine throughout the United States and Canada. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1,2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1,2">they</REFEX></REF>
+ have appeared in "Keith Famie's Adventures", in "Tyler's Ultimate" with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Tyler Florence</REFEX></REF>
+, and in "Christmas in America" with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Rachael Ray</REFEX></REF>
+, all on the Food Network. 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1,2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1,2">they</REFEX></REF>
+ have also been featured on "The Splendid Table" on National Public Radio, "Sara's Secrets" with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Sara Moulton</REFEX></REF>
+ on the Food Network, "Taste of America" with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="6"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Mark DeCarlo</REFEX></REF>
+ on the Travel Channel, and in a Public Television documentary, "Abuela" (The Cuban Kitchen: My Grandmother's Secrets) .
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1,2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1,2">they</REFEX></REF>
+ are authors of the books "Three Guys From Miami Cook Cuban" ISBN 1-58685-433-X, and "Three Guys From Miami Celebrate Cuban" ISBN 1-4236-0063-0. 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Castillo</REFEX></REF>
+ and 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1,2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1,2">they</REFEX></REF>
+ promote Cuban culture and the Cuban experience in the United States.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Castillo's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Jorge G. Castillo's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Castillo</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jorge G. Castillo</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0,1,2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0,1,2">the Three Guys From Miami's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0,1,2">the Three Guys From Miami</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0,1,2">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,1,2">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1,2">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1,2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Tyler Florence's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Tyler Florence</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">Rachael Ray's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Rachael Ray</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">Sara Moulton's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Sara Moulton</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="6">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="6">Mark DeCarlo's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Mark DeCarlo</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="6">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="6">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

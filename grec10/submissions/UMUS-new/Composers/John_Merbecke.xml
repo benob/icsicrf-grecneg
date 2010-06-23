@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="957">
+<TITLE>John Merbecke</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">John Marbeck</REFEX></REF>
+, Merbeck or Merbecke (c. 1510 - c. 1585) was an English theological writer and musician 
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX></REF>
+ produced a standard setting of the Anglican liturgy. 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is also known today for 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ setting of the Mass, Missa per arma iustitie.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Probably a native of Beverley in Yorkshire, 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Merbecke</REFEX></REF>
+ appears to have been a boy chorister at St. George's Chapel, Windsor, and 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was employed as an organist there from about 1541. Two years later 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was convicted with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="4,5,6"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="4,5,6">three others</REFEX></REF>
+ of heresy and sentenced to stake, but 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ received a pardon owing to the intervention of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Stephen Gardiner, Bishop of Winchester</REFEX></REF>
+. An English Concordance of the Bible which 
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ had been preparing was however confiscated and destroyed. A later version of this work, the first of its kind in English, was published in 1550 with a dedication to 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Edward VI</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+In the same year 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Marbeck</REFEX></REF>
+ published 
+<REF MENTION="11" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ Booke of Common Praier Noted, intended to provide for musical uniformity in the use of the First Prayer Book of 
+<REF MENTION="2" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Edward VI</REFEX></REF>
+. This set the liturgy to semi-rhythmical melodies partly adapted from Gregorian chant; it was rendered obsolete when the Prayer Book was revised in 1552. It was however rediscovered in the 19th century, and adaptations for the 1662 liturgy are still in use. 
+<REF MENTION="12" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ wrote several devotional and controversial works of a strongly Calvinistic character, and a number of 
+<REF MENTION="13" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ musical compositions are preserved in manuscript in the British Library, and at Oxford and Cambridge. 
+<REF MENTION="14" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ died, probably while still organist at Windsor, about 1585.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Roger Marbeck</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Roger Marbeck</REFEX></REF>
+ (1536-1605) was a noted classical scholar and physician.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">John Marbeck's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Marbeck's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Merbecke's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">John Marbeck</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Marbeck</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Merbecke</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Stephen Gardiner, Bishop of Winchester</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Edward VI's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Edward VI</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="3"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>son</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Roger Marbeck's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Roger Marbeck</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="4,5,6">three others</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4,5,6">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4,5,6">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4,5,6">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4,5,6">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4,5,6">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

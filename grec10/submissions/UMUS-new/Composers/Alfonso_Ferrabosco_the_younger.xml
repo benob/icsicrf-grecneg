@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="934">
+<TITLE>Alfonso Ferrabosco the younger</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Alfonso Ferrabosco the younger</REFEX></REF>
+ (b. Greenwich, c. 1575; bur. Greenwich, March 11, 1628) was an English composer and viol player of Italian descent. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ straddles the line between the Renaissance and Baroque eras. 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was the illegitimate son of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">the Italian composer Alfonso Ferrabosco the Elder</REFEX></REF>
+. 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ mother might have been 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Susanna Symons</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="obj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">whom</REFEX></REF>
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Alfonso the elder</REFEX></REF>
+ later married. 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was left under the guardianship of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Gomer van Awsterwyke</REFEX></REF>
+, a member of 
+<REF MENTION="1" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="genitive" REG08-TYPE="common" ENTITY="4">the queen's</REFEX></REF>
+ court. Although 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX></REF>
+ asked for 
+<REF MENTION="6" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX></REF>
+ to be sent to 
+<REF MENTION="4" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX></REF>
+ in Italy, where 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX></REF>
+ had moved with 
+<REF MENTION="3" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Susanna Symons</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="4">the queen</REFEX></REF>
+ insisted that 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Ferrabosco</REFEX></REF>
+ stay in England. 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ remains in 
+<REF MENTION="2" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX></REF>
+ care until 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX></REF>
+ death in 1592. At this time 
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ started a long career as a court musician, including as the private music tutor of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Prince Henry</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Ferrabosco</REFEX></REF>
+ collaborated with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="6"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Ben Jonson</REFEX></REF>
+ on several projects, including The Masque of Blackness (1605), and 
+<REF MENTION="11" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ wrote music for several other masques besides. 
+<REF MENTION="12" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ music was published by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="7"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">John Browne</REFEX></REF>
+ in 1609, including a number of settings of poems by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="8"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">John Donne</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="9"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="9">Thomas Campion</REFEX></REF>
+, as well as lute and viol music. 
+<REF MENTION="13" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ frequently wrote in the new declamatory Baroque style, and although 
+<REF MENTION="14" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ never went to Italy, 
+<REF MENTION="15" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was well aware of contemporary Italian music.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="16" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Ferrabosco's</REFEX></REF>
+ reputation was built largely on 
+<REF MENTION="17" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ prowess as a viol player, and even more so 
+<REF MENTION="18" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ compositions for viol consort. These were highly idiomatic works, with lots of divisions, and virtuosic lines. 
+<REF MENTION="19" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ also wrote many In Nomines, which were great examples of that popular genre, without the pedantic bent many later In nomines were given to. 
+<REF MENTION="20" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was also one of the first to write lyra viol music in tablature, along with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="10"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="10">Coprario</REFEX></REF>
+, and 
+<REF MENTION="21" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ wrote a book of Lessons for the lyra viol.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="22" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ continually had difficulty with debts, and 
+<REF MENTION="23" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ was involved in an unsuccessful scheme involving various rights on the River Thames, including dredging it for gravel, and imposing fines on people who caused a nuisance on it.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Alfonso Ferrabosco the younger's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Alfonso the younger's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Ferrabosco the younger's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Ferrabosco's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Alfonso Ferrabosco the younger</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Alfonso the younger</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Ferrabosco the younger</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Ferrabosco</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Alfonso the elder's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">the Italian composer Alfonso Ferrabosco the Elder's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Alfonso the elder</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">the Italian composer Alfonso Ferrabosco the Elder</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="10">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="10">Coprario's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="10">Coprario</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="10">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="10">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="10">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="10">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="2"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"></REF>wife</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Susanna Symons's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Susanna Symons</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">whom</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Gomer van Awsterwyke's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Gomer van Awsterwyke</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="common" ENTITY="4">the queen's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="4">the queen</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">Prince Henry's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Prince Henry</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="6">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="6">Ben Jonson's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Ben Jonson</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="6">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="6">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="7">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="7">John Browne's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">John Browne</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="7">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="7">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="8">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="8">John Donne's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">John Donne</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="8">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="8">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="9">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="9">Thomas Campion's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="9">Thomas Campion</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="9">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="9">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="9">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="9">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

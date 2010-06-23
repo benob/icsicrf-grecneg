@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="954">
+<TITLE>John Amner</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">John Amner</REFEX></REF>
+ (1579, Ely – 1641, Ely) was an English composer.
+</PARAGRAPH>
+
+<PARAGRAPH>
+A composer of sacred works, 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Amner</REFEX></REF>
+ had a close association with Ely Cathedral —- even before 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ employment there as Informator choristarum (1610–1641) —- through 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1,2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1,2">Michael and Ralph Amner</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="1,2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">who</REFEX></REF>
+, 
+<REF MENTION="3" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="1,2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">who</REFEX></REF>
+ were both lay clerks there. 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Amner</REFEX></REF>
+ received 
+<REF MENTION="6" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ Bachelor of Music from Oxford with the support of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">the Earl of Bath</REFEX></REF>
+ in 1613, and also from Cambridge in 1640. 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was employed as both an organist and clergyman at the Cathedral after 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ obtained 
+<REF MENTION="9" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ first degree. 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was subsequently ordained to the diaconate, later becoming vicarius (minor canon). In 1615, 
+<REF MENTION="11" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ published a collection entitled Sacred Hymnes of 3, 4, 5 and 6 parts for the Voyces and Vyols, which represents most of 
+<REF MENTION="12" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ known works. 
+<REF MENTION="13" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ other works include Preces (both for five voices), four arrangements of the daily canticles, several simple four-part anthems, slightly more complex five-part anthems, and verse anthems. Roughly a dozen of these works were recorded in the 1990s, and many were performed by the Ely Cathedral choir, including Blessed be the Lord God, Hear, O Lord, Have mercy, I will sing unto the Lord as long as I live, My Lord is hence removed and laid, O sing unto the Lord, O ye little flock, the Second Service (Cesar's), and Sing, O heav'ns. 
+<REF MENTION="14" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ also wrote a pavan and galliard for viols and a single keyboard piece that stands out historically as the only recognized group of variations on a metrical psalm tune ("O Lord in thee is all my trust").
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Amner's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">John Amner's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Amner</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">John Amner</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1,2"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>relatives</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1,2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1,2">Michael and Ralph Amner's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1,2">Michael and Ralph Amner</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1,2">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1,2">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">the Earl of Bath's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">the Earl of Bath</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="907">
+<TITLE>François Payard</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Chef François Payard</REFEX></REF>
+ (born July 16, 1966) is a pastry chef and cookbook author.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Born in Nice, 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Payard</REFEX></REF>
+ grew up spending much of 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ time in 
+<REF MENTION="1" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="genitive" REG08-TYPE="common" ENTITY="1"> <REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX REG08-TYPE="pronoun" CASE="genitive">his</REFEX></REF> grandfather’s</REFEX></REF>
+ pastry shop, Au Nid des Friandises, on the Riviera.
+</PARAGRAPH>
+
+<PARAGRAPH>
+After coming to New York City in 1990 from traveling around Paris honing 
+<REF MENTION="5" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ skills in three-star Michelin rated pastry kitchens, 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ began 
+<REF MENTION="7" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ New York City career at Le Bernardin and Restaurant Daniel where 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ earned recognition in the kitchen as the 1995 recipient of the James Beard Association “Pastry Chef of the Year” award, honoring 
+<REF MENTION="9" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX></REF>
+ for 
+<REF MENTION="10" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ unique pastry designs and high attention to flavor.
+</PARAGRAPH>
+
+<PARAGRAPH>
+In 1997, 
+<REF MENTION="11" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Payard</REFEX></REF>
+ opened 
+<REF MENTION="12" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ first Pâtisserie and Bistro with Payard Pâtisserie and Bistro on Manhattan’s Upper East Side. Currently, 
+<REF MENTION="13" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ has locations in Brazil, Japan, Caesar’s Palace in Las Vegas, and New York.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="14" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Payard</REFEX></REF>
+ is also the author of several cookbooks, “Bite Size: Elegant Recipes for Entertaining,” “Simply Sensational Desserts” and 
+<REF MENTION="15" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ most recent “Chocolate Epiphany: Exceptional Cookies, Cakes, and Confections for Everyone.”
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="16" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ recent creations include Soy Chocolate Mousse and upgrades to the classic Payard Holiday Yule logs.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Chef François Payard's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">François Payard's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Payard's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">chef François Payard's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Chef François Payard</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">François Payard</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Payard</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">chef François Payard</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="common" ENTITY="1"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>grandfather’s</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>
