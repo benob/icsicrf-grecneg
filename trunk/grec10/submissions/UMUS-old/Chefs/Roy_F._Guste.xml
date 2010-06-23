@@ -1,0 +1,73 @@
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="923">
+<TITLE>Roy F. Guste</TITLE>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Guste</REFEX>
+</REF>
+ is the author of 10 Louisiana French-Creole cuisine cookbooks and a past fifth generation proprietor of New Orleans' famed Antoine's Restaurant, established in 1840. 
+<REF ENTITY="0" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+, a noted Creole culinary historian and resident of the historic French Quarter of New Orleans for more than three decades, grew up in the Garden District, New Orleans and 
+<REF ENTITY="0" MENTION="3" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="no_case_empty" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty" NEW="yes">_</REFEX>
+</REF>
+ studied at the Le Cordon Bleu. 
+<REF ENTITY="0" MENTION="4" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ is a contributor to the nationally released multi-award-winning book Orleans Embrace with the Secret Gardens of the Vieux Carré, a compendium with 
+<REF ENTITY="1" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">TJ Fisher</REFEX>
+</REF>
+ and 
+<REF ENTITY="2" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="2" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Louis Sahuc</REFEX>
+</REF>
+. The commemorative edition garnered double gold at the prestigious Publishers Marketing Association PMA Benjamin Franklin Awards 2007 for “The Best New Voice Nonfiction” and “The Bill Fisher Award for Best First Book Nonfiction.” The book received 10 national book awards. 
+<REF ENTITY="0" MENTION="5" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ is the nephew of 
+<REF ENTITY="3" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="3" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Louisiana's longest-serving Attorney General William J. Guste</REFEX>
+</REF>
+.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Guste's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name">Guste</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_comma">Roy F. Guste, Jr.</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">TJ Fisher's</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name">TJ Fisher</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">her</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_him">her</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">she</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Louis Sahuc's</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="name" CASE="plain" TAG="plain_name">Louis Sahuc</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Louisiana's longest-serving Attorney General William J. Guste's</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="name" CASE="plain" TAG="plain_name">Louisiana's longest-serving Attorney General William J. Guste</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

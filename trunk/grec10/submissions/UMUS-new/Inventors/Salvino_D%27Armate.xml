@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="994">
+<TITLE>Salvino D'Armate</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Salvino D'Armate</REFEX></REF>
+ (or "son of Armato") of Florence is credited with inventing eyeglasses sometime in the thirteenth century, perhaps around 1284. Although there is some doubt as to the authenticity of this claim, 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Leopoldo del Migliore</REFEX></REF>
+ stated in 
+<REF MENTION="2" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX></REF>
+ 1684 history of Florence that a memorial honoring 
+<REF MENTION="2" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">D'Armati</REFEX></REF>
+ at the church of Santa Maria Maggiore bore the inscription: Here lies Salvino degl' Armati, son of Armato of Florence, inventor of eyeglasses. May God forgive his sins. A.D. 1317. However, this tomb no longer exists, and this claim has not been verified. 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">D'Armati</REFEX></REF>
+ was born in 1258 and 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ died in 1312.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Alessandro Spina of Pisa</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="2">a Dominican friar</REFEX></REF>
+, is sometimes also credited with the invention. However, 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Spina</REFEX></REF>
+ most likely learned to make spectacles after seeing them made by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="3">another individual</REFEX></REF>
+, a talent for which 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX></REF>
+ was famous at the time. To this day, there is doubt as to the identity of the inventor. However, spectacles were almost certainly invented between 1280 and 1300 in Italy.
+</PARAGRAPH>
+
+<PARAGRAPH>
+The earliest eyeglasses were for the correction of hyperopia (farsightedness). These eyeglasses did not have arms, but perched on the bridge of the nose. Arms were not introduced till the 1600s. Eyeglasses to correct myopia (nearsightedness) were not invented until the fifteenth century.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">D'Armati's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Salvino D'Armate's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Salvino D'Armato's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">D'Armati</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Salvino D'Armate</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Salvino D'Armato</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Leopoldo del Migliore's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Leopoldo del Migliore</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="2">a Dominican friar</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Alessandro Spina of Pisa's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Spina's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Alessandro Spina of Pisa</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Spina</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="3">another individual</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

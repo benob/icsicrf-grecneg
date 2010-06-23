@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="1000">
+<TITLE>William Kitchiner</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">William Kitchiner, M.D.</REFEX></REF>
+ (1775-1827) was an optician, inventor of telescopes, amateur musician and exceptional cook. 
+<REF MENTION="2" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ name was a household word during the 19th century, and 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ Cook’s Oracle was a bestseller in England and America. Unlike most food writers of the time 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ cooked the food himself, 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ washed up afterwards, and 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ performed all the household tasks 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ wrote about. 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ travelled around with 
+<REF MENTION="9" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ portable cabinet of taste, a folding cabinet containing 
+<REF MENTION="10" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ mustards and sauces. 
+<REF MENTION="11" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was also the creator of Wow-Wow sauce.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">William Kitchiner, M.D.</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

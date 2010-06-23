@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="964">
+<TITLE>Pycard</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Pycard</REFEX></REF>
+, also spelt Picard and Picart (late 14th century - early 15th century) was an English or French Medieval and Renaissance transitionary composer.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Pycard</REFEX></REF>
+ may have served in 
+<REF MENTION="1" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">John of Gaunt's</REFEX></REF>
+ household in the 1390s as 'Jehan Pycard alias Vaux'. 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is one of the most prolific composers represented in the Old Hall Manuscript (British Library: Additional 57950), with nine works from it attributed to 
+<REF MENTION="4" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX></REF>
+. 
+<REF MENTION="5" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ music is in the ars nova style, and is unusual in its virtuosity.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Pycard's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Pycard</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">John of Gaunt's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">John of Gaunt</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

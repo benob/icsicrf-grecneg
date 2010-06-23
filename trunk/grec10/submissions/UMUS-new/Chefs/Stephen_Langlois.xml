@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="927">
+<TITLE>Stephen Langlois</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Stephen Langlois</REFEX></REF>
+ is a Chicago area chef and co-author of Prairie: Cuisine from the Heartland (with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Margaret Guthrie</REFEX></REF>
+).
+</PARAGRAPH>
+
+<PARAGRAPH>
+Currently executive chef of the Hyatt Lodge in Oak Brook, Illinois, 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Langlois</REFEX></REF>
+ was one of the chefs defining Midwestern cuisine in the 20th century. As chef of the now-closed Prairie in Chicago from 1986 to 1997, 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ showcased strictly regional fare, even steering clear of ocean fish.
+</PARAGRAPH>
+
+<PARAGRAPH>
+A graduate of the hospitality program at Triton College in River Grove, Illinois and the Culinary Institute of America in Hyde Park, New York, 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Langlois</REFEX></REF>
+ also worked at the Chicago restaurants Cafe D'Artagnan and Maxim's and the Pulitzer Hotel in Amsterdam, Netherlands.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Langlois's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Stephen Langlois's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Langlois</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Stephen Langlois</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Margaret Guthrie's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Margaret Guthrie</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

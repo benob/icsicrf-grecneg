@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="928">
+<TITLE>Wendy Rahamut</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Wendy Rahamut</REFEX></REF>
+ is a Trinidadian author, television personality and chef. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ publishes the Caribbean Gourmet magazine and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ is the host of the TV show Caribbean Flavors, which used to be at CCN TV 6 but is now at CNMG TV 9 at 6.30 pm. 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ also holds cooking classes at 
+<REF MENTION="5" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX></REF>
+ cooking school in San Fernando, Trinidad and Tobago on Saturdays. 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ was trained in Canada. 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ is of Indo-Trinidadian Descent.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Wendy Rahamut's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Wendy Rahamut</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

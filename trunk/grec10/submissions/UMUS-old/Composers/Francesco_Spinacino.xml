@@ -1,0 +1,55 @@
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="946">
+<TITLE>Francesco Spinacino</TITLE>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Francesco Spinacino</REFEX>
+</REF>
+ (fl. 1507) was an Italian lutenist and composer. 
+<REF ENTITY="0" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ surviving output comprises the first two volumes of 
+<REF ENTITY="1" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_name" CHOICE="1">
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="genitive" TAG="genitive_name" NEW="yes">Ottaviano Petrucci's</REFEX>
+</REF>
+ influential series of lute music publications: Intabolatura de lauto libro primo and Intabolatura de lauto libro secondo (both 1507). These two collections are the first known printed lute music.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="3" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name_family" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family" NEW="yes">Spinacino</REFEX>
+</REF>
+ was apparently highly regarded by 
+<REF ENTITY="0" MENTION="4" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ contemporaries, as 
+<REF ENTITY="0" MENTION="5" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ music was widely copied: some of the pieces are found in manuscripts that originated in the British Isles. There are 81 pieces overall: 46 intabulations, 27 ricercares, two bassadans and six pieces for lute duets. The ricercares are among the most complex of the period; they have no clearly defined form and include several contrasting sections. Particularly notable is Recercare de tutti li toni, which moves through all modes. The duets are also historically important, for they present a sample of early 16th century performance practice: one of the lutes is given an intabulation of a chanson's original tenor and bass, whereas the other plays free counterpoint not related to the chanson in question.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Francesco Spinacino's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_family">Spinacino's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name">Francesco Spinacino</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family">Spinacino</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Ottaviano Petrucci's</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name">Ottaviano Petrucci</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

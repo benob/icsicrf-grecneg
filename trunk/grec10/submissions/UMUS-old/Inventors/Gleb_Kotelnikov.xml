@@ -1,0 +1,49 @@
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="978">
+<TITLE>Gleb Kotelnikov</TITLE>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Gleb Yevgeniyevich Kotelnikov</REFEX>
+</REF>
+ (Котельников, Глеб Евгеньевич in Russian,  January 30 [O.S. January 18] 1872 – November 22, 1944), was the Russian-Soviet inventor of the knapsack parachute.
+</PARAGRAPH>
+
+<PARAGRAPH>
+In 1894, 
+<REF ENTITY="0" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name_family" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family" NEW="yes">Kotelnikov</REFEX>
+</REF>
+ graduated from the Kiev Military School. In 1911, 
+<REF ENTITY="0" MENTION="3" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ created 
+<REF ENTITY="0" MENTION="4" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ first parachute RK-1 (which stands for Rantseviy (knapsack) Kotelnikova (by Kotelnikov), 1st model), that was successfully employed in 1914 during World War I. Later on, 
+<REF ENTITY="0" MENTION="5" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ significantly improved the design of 
+<REF ENTITY="0" MENTION="6" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ parachute, creating new models, including RK-2 with a softer knapsack, RK-3, and a few cargo parachutes, all of which would be adopted by the Soviet Air Force.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Gleb Yevgeniyevich Kotelnikov's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_family">Kotelnikov's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name">Gleb Yevgeniyevich Kotelnikov</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family">Kotelnikov</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

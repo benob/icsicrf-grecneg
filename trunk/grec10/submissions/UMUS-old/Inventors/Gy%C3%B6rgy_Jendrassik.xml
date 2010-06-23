@@ -1,0 +1,142 @@
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="979">
+<TITLE>György Jendrassik</TITLE>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">György Jendrassik</REFEX>
+</REF>
+ (1898-1954) was born in Budapest, Hungary.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name_family" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family" NEW="yes">Jendrassik</REFEX>
+</REF>
+ completed 
+<REF ENTITY="0" MENTION="3" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ education at Budapest's József Technical University, then at the University of Berlin 
+<REF ENTITY="0" MENTION="4" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ attended lectures of 
+<REF ENTITY="1,2" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name_long" CHOICE="1">
+<REFEX ENTITY="1,2" REG08-TYPE="name" CASE="plain" TAG="plain_name_long" NEW="yes">the famous physicists Einstein and Planck</REFEX>
+</REF>
+. In 1922 
+<REF ENTITY="0" MENTION="5" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ obtained 
+<REF ENTITY="0" MENTION="6" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ diploma in mechanical engineering in Budapest. From 1927 
+<REF ENTITY="0" MENTION="7" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ worked at Ganz Rt, where 
+<REF ENTITY="0" MENTION="8" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ helped to develop diesel engines. 
+<REF ENTITY="0" MENTION="9" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ designed the world famous Jendrassik Cs-1 turboprop engine, of which the first few pieces were made with single and double cylinders; later, the 4- and 6-cylinder four-stroke versions were developed, without compression and with mixing chamber.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Later on 
+<REF ENTITY="0" MENTION="10" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name_family" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family" NEW="yes">Jendrassik</REFEX>
+</REF>
+ was active in improving gas turbines and in order to speed up research, 
+<REF ENTITY="0" MENTION="11" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ established the Invention Development and Marketing Co. Ltd. in 1936. 
+<REF ENTITY="0" MENTION="12" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ reputation continued to grow, and 
+<REF ENTITY="0" MENTION="13" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="no_case_empty" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty" NEW="yes">_</REFEX>
+</REF>
+ became the factory's managing director from 1942 to 1945. In recognition of 
+<REF ENTITY="0" MENTION="14" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ scientific work 
+<REF ENTITY="0" MENTION="15" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ was elected in 1943 corresponding member of the Hungarian Academy of Sciences. After the war 
+<REF ENTITY="0" MENTION="16" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ was not able to continue developing gas turbines. Distrust surrounded 
+<REF ENTITY="0" MENTION="17" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="accusative_pronoun_him" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him" NEW="yes">him</REFEX>
+</REF>
+, and therefore 
+<REF ENTITY="0" MENTION="18" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ did not return from one of 
+<REF ENTITY="0" MENTION="19" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ travels abroad. 
+<REF ENTITY="0" MENTION="20" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ lived in Argentina for a while, then 
+<REF ENTITY="0" MENTION="21" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ settled in England, where 
+<REF ENTITY="0" MENTION="22" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ established 
+<REF ENTITY="0" MENTION="23" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ own workshop. The number of 
+<REF ENTITY="0" MENTION="24" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ inventions on record in Hungary is 77.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="25" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ deserves some credit for recognizing the future of gas turbines in flying for long-distance military aircraft of today.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">György Jendrassik's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_family">Jendrassik's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name">György Jendrassik</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family">Jendrassik</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="1,2" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="1,2" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_long">the famous physicists Einstein and Planck's</REFEX>
+<REFEX ENTITY="1,2" REG08-TYPE="name" CASE="plain" TAG="plain_name_long">the famous physicists Einstein and Planck</REFEX>
+<REFEX ENTITY="1,2" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">them</REFEX>
+<REFEX ENTITY="1,2" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">their</REFEX>
+<REFEX ENTITY="1,2" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">they</REFEX>
+<REFEX ENTITY="1,2" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

@@ -1,0 +1,108 @@
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="962">
+<TITLE>Neidhart von Reuental</TITLE>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Neidhart von Reuental</REFEX>
+</REF>
+ (MHG: Nîthart von Riuwental) was one of the most famous German minnesingers. 
+<REF ENTITY="0" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ was born in Bavaria and 
+<REF ENTITY="0" MENTION="3" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="no_case_empty" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty" NEW="yes">_</REFEX>
+</REF>
+ lived in Austria. As a minnesinger 
+<REF ENTITY="0" MENTION="4" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ was most active from 1210 to 1240. 
+<REF ENTITY="0" MENTION="5" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ is very well known for being rather sarcastic and comical. More melodies survive by 
+<REF ENTITY="0" MENTION="6" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="accusative_pronoun_him" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him" NEW="yes">him</REFEX>
+</REF>
+ than from any other minnesinger.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="7" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ name is most likely a pseudonym, for its meaning is more or less Grim-Heart of Lament-Valley. The second part of 
+<REF ENTITY="0" MENTION="8" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ name, however, was "reconstructed" by philologists of the 19th century, who took literally the role of the "speaker," who calls himself "von Reuental" in 
+<REF ENTITY="0" MENTION="9" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ poems, and thus combined it with 
+<REF ENTITY="0" MENTION="10" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ name, which was simply "Nithart". All manuscript sources until the 15th century refer to 
+<REF ENTITY="0" MENTION="11" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="accusative_pronoun_him" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him" NEW="yes">him</REFEX>
+</REF>
+ only as "Nithart". 
+<REF ENTITY="0" MENTION="12" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ songs often stand in harsh contrast to the normal minnesinger topic, courtly or romantic love. This style has been referred to as Höfische Dorfpoesie (courtly village-poetry) by 
+<REF ENTITY="1" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">philologist Karl Lachmann</REFEX>
+</REF>
+ and was often imitated by composers called pseudo-Neidharts.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Probably 
+<REF ENTITY="0" MENTION="13" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ best-known song is Meienzît (May Time) in which 
+<REF ENTITY="0" MENTION="14" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ starts with describing a peaceful spring scenario but 
+<REF ENTITY="0" MENTION="15" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ quickly comes to insulting 
+<REF ENTITY="0" MENTION="16" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ foes (and several friends and allies that betrayed 
+<REF ENTITY="0" MENTION="17" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="accusative_pronoun_him" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him" NEW="yes">him</REFEX>
+</REF>
+).
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX ENTITY="0" REG08-TYPE="common" CASE="genitive" TAG="genitive_common">the author's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Neidhart von Reuental's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_first">Neidhart's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name">Neidhart von Reuental</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_first">Neidhart</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">philologist Karl Lachmann's</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name">philologist Karl Lachmann</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

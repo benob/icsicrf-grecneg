@@ -1,0 +1,87 @@
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="929">
+<TITLE>William Poon</TITLE>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Chef William Poon</REFEX>
+</REF>
+ is one of the top masterchefs in the UK, and 
+<REF ENTITY="0" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="no_case_empty" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty" NEW="yes">_</REFEX>
+</REF>
+ launched the Poons restaurant chain in London.
+</PARAGRAPH>
+
+<PARAGRAPH>
+The restaurant chain, first opened in the 60's, consisted of 5 branches at its peak, each branch with its own speciality and run by different family members. It was acclaimed for its authentic Cantonese Menu and was famous for the Chinese wind-dried sausages (臘腸) and wind-dried duck. It was also one of the first Chinese restaurants in London's Chinatown to introduce Clay Pot Rice (煲仔飯).
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="3" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name_family" CHOICE="2">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family" NEW="yes">William Poon</REFEX>
+</REF>
+ personally ran the kitchen in Covent Garden (one Michelin star 1979-80) before it moved to Poons in the City in 1992. The restaurant in the city was modelled on the design of Hong Kong's Luk Yew Tree House and had a 80-seat fast food section. Poons have been patronised by celebrities such as 
+<REF ENTITY="1" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Frank Sinatra</REFEX>
+</REF>
+ and many theatre stars among the Covent Garden theatres.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="4" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ is now officially retired and all the chain restaurants are closed, but 
+<REF ENTITY="0" MENTION="5" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ wind-dried products are still widely available in UK supermarkets.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="6" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ continues to work in support of community projects and 
+<REF ENTITY="0" MENTION="7" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="no_case_empty" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty" NEW="yes">_</REFEX>
+</REF>
+ is currently the Chair of the Euro-Chinese Literature Association (歐華文聯), and the Permanent President of Shunde UK Association. 
+<REF ENTITY="0" MENTION="8" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ also helps with promoting Chinese cooking standards in the UK and 
+<REF ENTITY="0" MENTION="9" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="no_case_empty" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty" NEW="yes">_</REFEX>
+</REF>
+ has been on the judging panels for the Chinese Masterchef competition organised by Westminster City Council. 
+<REF ENTITY="0" MENTION="10" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ was one of the finalists for the Promotion of Excellence in Chinese Cuisine at the Pearl Award in 2006.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Chef William Poon's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_family">Poon's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_family">William Poon's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name">Chef William Poon</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family">Poon</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family">William Poon</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Frank Sinatra's</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name">Frank Sinatra</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

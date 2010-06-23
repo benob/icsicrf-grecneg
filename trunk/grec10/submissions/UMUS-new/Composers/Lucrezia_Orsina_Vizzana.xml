@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="960">
+<TITLE>Lucrezia Orsina Vizzana</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Lucrezia Orsina Vizzana</REFEX></REF>
+ (July 3 1590–May 7 1662) was an Italian singer, organist, and composer. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ entered a Camaldolese convent in Bologna in 1598. 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX></REF>
+ works were published in Componimenti musicali de motetti concertati a 1 e più voci (Venice, 1623). 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX></REF>
+ was taught by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Camilla Bombacci</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Camilla Bombacci</REFEX></REF>
+, 
+<REF MENTION="3" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX></REF>
+ was the convent organist, and by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Ottavio Vernizzi</REFEX></REF>
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX></REF>
+ was the unofficial music master. 
+<REF MENTION="6" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX></REF>
+ works are influenced by stile moderno (seconda prattica) music, especially the works of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Claudio Monteverdi</REFEX></REF>
+. 
+<REF MENTION="7" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Vizzana's</REFEX></REF>
+ works are mainly solos or duets with continuo accompaniment.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Lucrezia Orsina Vizzana's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Vizzana's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Lucrezia Orsina Vizzana</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Vizzana</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>aunt</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Camilla Bombacci's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Camilla Bombacci</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Ottavio Vernizzi's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Ottavio Vernizzi</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Claudio Monteverdi's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Claudio Monteverdi</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

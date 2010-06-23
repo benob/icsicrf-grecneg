@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="952">
+<TITLE>Johannes Cesaris</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Johannes Cesaris</REFEX></REF>
+ (fl. 1406 - 1417) was a French composer of the late Medieval era and early Renaissance. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was one of the composers of the transitional style between the two epochs, and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ was active at the Burgundian court in the early 15th century.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Little is known about 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ life, excepting the years 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was active in Bourges. 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was a cleric for 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">the Duke of Berry</REFEX></REF>
+ in Bourges in 1406, and maître des enfants (choirmaster to the boys) at the cathedral there from 1407 to 1409. In 1417 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was probably the organist at Angers cathedral. 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">a Pierre Cesaris</REFEX></REF>
+, possibly a relative, was active in Bourges until 1443. There is a reference in a contemporary poem, Le champion des dames by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="6"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Martin le Franc</REFEX></REF>
+ to 
+<REF MENTION="8" SYNFUNC="subj_ger-part" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ being a popular composer in Paris in the early part of the century (this is the same manuscript that contains the famous portraits of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Guillaume Dufay</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Gilles Binchois</REFEX></REF>
+).
+</PARAGRAPH>
+
+<PARAGRAPH>
+Of 
+<REF MENTION="9" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ works, one motet, two ballades, and five rondeaux survive, as well as a sixth rondeau which has a contested attribution (it may be by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Passet</REFEX></REF>
+). Stylistically, they span both the manneristic complexities of the ars subtilior, which was the predominant style in Avignon in the 1390s, and the relatively simple song style of the early 15th century as it was developing in the courts of France and Burgundy. 
+<REF MENTION="10" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ motet A virtutis ignitio/Ergo beata/Benedicta filia, for four voices with three simultaneously sung texts, is isorhythmic in all parts. One of the secular songs, the rondeaux A l'aventure va Gauvain, is in a style which suggests the later generation, and may have been written later than 1417; indeed many of 
+<REF MENTION="11" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ pieces are from manuscripts dated from early to mid-century.
+</PARAGRAPH>
+
+<PARAGRAPH>
+One of 
+<REF MENTION="12" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ pieces, the ballade Le dieus d'amours, was copied into the famous Chantilly Codex, the illuminated manuscript which is the primary source for the Avignon repertory of the ars subtilior.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Johannes Cesaris's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Johannes Cesaris</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">the Duke of Berry's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">the Duke of Berry</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">a Pierre Cesaris's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">a Pierre Cesaris</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Guillaume Dufay's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Guillaume Dufay</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">Gilles Binchois's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Gilles Binchois</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">Passet's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Passet</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="6">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="6">Martin le Franc's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Martin le Franc</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="6">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="6">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

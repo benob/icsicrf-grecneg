@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="924">
+<TITLE>Roza Montazemi</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Roza Montazemi</REFEX></REF>
+ (in Persian: رزا منتظمی) (born circa 1926-1928 as Fateme Bahreyni, in Persian: فاطمه بحرینی) is a well-known Iranian author of cookbooks. 
+<REF MENTION="2" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX></REF>
+ cookbook "Honar-e Aashpazi" or "Art of Cooking" has been in publication since 1964-1965 and is now in its 41st edition with 1700 Iranian cuisine and non-Iranian recipes.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Roza Montazemi's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Roza Montazemi</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

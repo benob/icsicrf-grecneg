@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="931">
+<TITLE>Adam of Saint Victor</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Adam of Saint Victor</REFEX></REF>
+ (d. 1146) was a prolific poet and composer of Latin hymns and sequences. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is believed to have sparked the expansion of the poetic and musical repertoire in the Notre Dame school with 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ strongly rhythmic and imagery-filled poetry.
+</PARAGRAPH>
+
+<PARAGRAPH>
+The first reference to 
+<REF MENTION="4" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Adam</REFEX></REF>
+ is from 1098, in the archives of Notre Dame Cathedral, where 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was first a subdeacon, and later a precentor. 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ left the cathedral for the Abbey of Saint Victor around 1133, probably because of 
+<REF MENTION="7" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ attempts at imposing the Rule of St Augustine at the cathedral.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Adam</REFEX></REF>
+ probably had contact with a number of important theologians, poets, and musicians of 
+<REF MENTION="9" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ day, including 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Peter Abelard</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Hugh of St Victor</REFEX></REF>
+, and 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ may have taught 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Albertus Parisiensis</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Thirty-seven of 
+<REF MENTION="11" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Adam's</REFEX></REF>
+ hymns were published in the Elucidatorium Ecclesiasticum of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Jodocus Clichtovaeus</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="4">a Catholic theologian of the 16th century</REFEX></REF>
+. The remaining seventy hymns were preserved in the Abbey of Saint Victor until its dissolution during the French Revolution. They were then transferred to the Bibliothèque Nationale, where they were discovered by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Léon Gautier</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX></REF>
+ edited the first complete edition of them (Paris, 1858). However, most attributions to 
+<REF MENTION="12" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Adam</REFEX></REF>
+ are speculative.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Adam of Saint Victor's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Adam's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Adam of Saint Victor</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Adam</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Peter Abelard's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Peter Abelard</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Hugh of St Victor's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Hugh of St Victor</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Albertus Parisiensis's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Albertus Parisiensis</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="4">a Catholic theologian of the 16th century</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">Jodocus Clichtovaeus's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Jodocus Clichtovaeus</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">Léon Gautier's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Léon Gautier</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

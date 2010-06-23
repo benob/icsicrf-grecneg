@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="987">
+<TITLE>Lars Magnus Ericsson</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Lars Magnus Ericsson</REFEX></REF>
+ (May 5, 1846 - December 17, 1926) was a Swedish inventor and founder of telephone equipment manufacturer Ericsson (incorporated as Telefonaktiebolaget LM Ericsson).
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was born in Värmskog, Värmland and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ grew up in the small village of Vegerbol, between Karlstad and Arvika. At the age of twelve 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="1"> <REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX REG08-TYPE="pronoun" CASE="genitive">his</REFEX></REF> father</REFEX></REF>
+ died, and 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ had to start working as a miner. 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ worked until 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ had money enough to leave the village and move to Stockholm in 1867. 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ then worked for six years for an instrument maker named Öllers &amp; Co. who mainly created telegraph equipment. Because of 
+<REF MENTION="9" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ skills, 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was given two state scholarships to study instrument making abroad between 1872 and 1875. One of the companies 
+<REF MENTION="11" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ worked at was Siemens &amp; Halske.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Upon 
+<REF MENTION="12" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ return to Sweden in 1876, 
+<REF MENTION="13" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ founded a small mechanical workshop together with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Carl Johan Andersson</REFEX></REF>
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Carl Johan Andersson</REFEX></REF>
+<REF MENTION="3" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX></REF>
+ had also worked at Öllers &amp; Co.. This workshop was actually a former kitchen of some 13m² situated at Drottninggatan 15 in the most central part of Stockholm. Here, 
+<REF MENTION="15" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ started a telephone company by analyzing Bell company and Siemens telephones and creating 
+<REF MENTION="16" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ own copies in their image. It was not until they started cooperating with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Henrik Tore Cedergren</REFEX></REF>
+ in 1883 that the company would start to grow into the Ericsson corporation as we know it today.
+</PARAGRAPH>
+
+<PARAGRAPH>
+In the year 1900 
+<REF MENTION="17" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ retired from Ericsson at the age of 54. 
+<REF MENTION="18" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ kept 
+<REF MENTION="19" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ shares in the company until 1905 and then 
+<REF MENTION="20" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ sold them all.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="21" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is said to have been a demanding person, and 
+<REF MENTION="22" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ disliked any direct publicity about 
+<REF MENTION="23" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ personality and 
+<REF MENTION="24" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ did not wish to be idolized. 
+<REF MENTION="25" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was, however, deeply respected by 
+<REF MENTION="26" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ employees. 
+<REF MENTION="27" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was always a skeptic and cautious in business. 
+<REF MENTION="28" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was also somewhat opposed to patents, as many of the products 
+<REF MENTION="29" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ made would not have been possible to do if the patent legislation had been overly effective. When 
+<REF MENTION="30" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ phones were copied by Norwegian companies 
+<REF MENTION="31" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ did not care, as 
+<REF MENTION="32" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ phones were in turn largely copied from Siemens. 
+<REF MENTION="33" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ initially did not believe in a mass market for telephones, and 
+<REF MENTION="34" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ saw it as a toy for the leisure class.
+</PARAGRAPH>
+
+<PARAGRAPH>
+After 
+<REF MENTION="35" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ death in 1926, 
+<REF MENTION="36" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was buried at Hågelby gård in Botkyrka. At 
+<REF MENTION="37" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ explicit request, there is no headstone marking 
+<REF MENTION="38" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ grave.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Lars Magnus Ericsson's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Lars Magnus's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Lars Magnus Ericsson</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Lars Magnus</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>father</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="2"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>friend</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Carl Johan Andersson's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Carl Johan Andersson</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Henrik Tore Cedergren's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Henrik Tore Cedergren</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

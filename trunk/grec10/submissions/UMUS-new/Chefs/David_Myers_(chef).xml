@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="906">
+<TITLE>David Myers (chef)</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">David Myers</REFEX></REF>
+ is a chef and restaurateur based out of Los Angeles, California.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Myers</REFEX></REF>
+ was born in Ohio, and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ originally went to college to study international business, but 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ left to pursue a career in the restaurant industry.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Myers</REFEX></REF>
+ studied under 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1,2,3,4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1,2,3,4">the chefs Charlie Trotter, Gerard Boyer, Daniel Boulud and Joachim Splichal</REFEX></REF>
+. The year after opening 
+<REF MENTION="6" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ restaurant Sona, 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was named one of Food &amp; Wine Magazine's Best New Chefs. 
+<REF MENTION="8" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ approach towards cooking involves sourcing 
+<REF MENTION="9" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ ingredients locally and seasonally. 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is the co-host of the TV show Shopping with Chefs on the Fine Living channel with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Jill Davie</REFEX></REF>
+.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">David Myers's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Myers'</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Myers's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">David Myers</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Myers</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1,2,3,4">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1,2,3,4">the chefs Charlie Trotter, Gerard Boyer, Daniel Boulud and Joachim Splichal</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1,2,3,4">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1,2,3,4">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2,3,4">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1,2,3,4">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">Jill Davie's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Jill Davie</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

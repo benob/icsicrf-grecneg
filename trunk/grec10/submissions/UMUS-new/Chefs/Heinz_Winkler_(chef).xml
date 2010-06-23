@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="909">
+<TITLE>Heinz Winkler (chef)</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Heinz Winkler</REFEX></REF>
+ (born July 17, 1949 in Brixen, Trentino-Alto Adige/Südtirol) is an Italian-German two-Michelin star chef.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was the youngest ever chef to receive 3 Michelin stars, when, in 1981, 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was 32 years old. 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ also was the first Italian chef to receive 3 Michelin stars.
+</PARAGRAPH>
+
+<PARAGRAPH>
+The currently youngest chef ever to receive 3 Stars from the Guide Michelin is 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Massimiliano Alajmo</REFEX></REF>
+. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX></REF>
+ was 29 years old in 2002 when 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX></REF>
+ was awarded the 3rd star.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Marco Pierre White</REFEX></REF>
+ is sometimes erroneously praised as being the youngest chef ever to receive 3 Michelin stars, when 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX></REF>
+ was 33 years old. In fact 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX></REF>
+ was the youngest chef in Britain to receive that award.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Heinz Winkler's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Heinz Winkler</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Massimiliano Alajmo's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Massimiliano Alajmo</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Marco Pierre White's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Marco Pierre White</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

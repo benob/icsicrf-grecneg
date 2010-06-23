@@ -1,0 +1,218 @@
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="936">
+<TITLE>Arnold de Lantins</TITLE>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Arnold de Lantins</REFEX>
+</REF>
+ (fl. 1420s, d. before July 2, 1432) was a Franco-Flemish composer of the late Medieval era and early Renaissance. 
+<REF ENTITY="0" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ is one of a few composers who shows aspects of both medieval and Renaissance style, and 
+<REF ENTITY="0" MENTION="3" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="no_case_empty" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty" NEW="yes">_</REFEX>
+</REF>
+ was a contemporary of 
+<REF ENTITY="1" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name_short" CHOICE="1">
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name_short" NEW="yes">Dufay</REFEX>
+</REF>
+ during 
+<REF ENTITY="1" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ sojourn in Italy.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Very little is known about 
+<REF ENTITY="0" MENTION="4" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ life, except for a few years in the 1420s to around 1430. It is presumed that 
+<REF ENTITY="0" MENTION="5" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ was from Flanders or adjacent areas. In the early 1420s 
+<REF ENTITY="0" MENTION="6" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ was probably in the service of the Malatesta family in either Rimini or Pesaro, since 
+<REF ENTITY="1" MENTION="3" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ mentioned 
+<REF ENTITY="0" MENTION="7" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="accusative_pronoun_him" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him" NEW="yes">him</REFEX>
+</REF>
+ in the text of a rondeau which was written between 1420 and 1424. 
+<REF ENTITY="0" MENTION="8" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ was in Venice in 1428 and Rome in 1431, in the latter city as a singer in the papal chapel choir, along with 
+<REF ENTITY="1" MENTION="4" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name_short" CHOICE="1">
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name_short" NEW="yes">Dufay</REFEX>
+</REF>
+. 
+<REF ENTITY="0" MENTION="9" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ was only in Rome six months; after that 
+<REF ENTITY="0" MENTION="10" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ disappears from history. Rome was entering a period of turmoil related to the Conciliar movement after the death in February 1431 of 
+<REF ENTITY="2" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="2" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Pope Martin V</REFEX>
+</REF>
+; many musicians left at that time or shortly after, and 
+<REF ENTITY="0" MENTION="11" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="no_case_empty" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty" NEW="yes">_</REFEX>
+</REF>
+ may have been one of them.
+</PARAGRAPH>
+
+<PARAGRAPH>
+It is not known for certain if 
+<REF ENTITY="0" MENTION="12" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ was a relative of 
+<REF ENTITY="3" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="3" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Hugo de Lantins</REFEX>
+</REF>
+, a composer active at the same time, but since 
+<REF ENTITY="0,3" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0,3" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">their</REFEX>
+</REF>
+ works often appear together in collections and 
+<REF ENTITY="0,3" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="no_case_empty" CHOICE="1">
+<REFEX ENTITY="0,3" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty" NEW="yes">_</REFEX>
+</REF>
+ seem to have been in the same geographical regions, it is not unlikely. (A sharp stylistic difference between the works of 
+<REF ENTITY="0,3" MENTION="3" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="accusative_pronoun_him" CHOICE="1">
+<REFEX ENTITY="0,3" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him" NEW="yes">them</REFEX>
+</REF>
+ shows 
+<REF ENTITY="0,3" MENTION="4" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0,3" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">they</REFEX>
+</REF>
+ can not be the same person.)
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="13" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_name_family" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_family" NEW="yes">Lantins's</REFEX>
+</REF>
+ music was held in high regard, and appears alongside that of 
+<REF ENTITY="1" MENTION="5" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name_short" CHOICE="1">
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name_short" NEW="yes">Dufay</REFEX>
+</REF>
+, 
+<REF ENTITY="4" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="4" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Gilles Binchois</REFEX>
+</REF>
+ and 
+<REF ENTITY="5" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="5" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Johannes Ciconia</REFEX>
+</REF>
+ in contemporary manuscript collections. In particular, one motet -- Tota pulchra es -- is found in widely distributed sources; since this was before the advent of printing technology, wide distribution of copies is taken as evidence of a composer's fame and popularity. 
+<REF ENTITY="0" MENTION="14" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ wrote a complete mass, found in Bologna Q15 (all the movements are found in OX 213 although the last two movements are separated - only the first three movements are found in Bologna 2216), as well as several parts of a composite mass in Bologna Q15 augmenting movements written by 
+<REF ENTITY="5" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="5" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Johannes Ciconia</REFEX>
+</REF>
+. Several other examples exist of composers adding movements to partial masses written by other composers, for example 
+<REF ENTITY="6" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="obj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="6" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Zacara da Teramo</REFEX>
+</REF>
+, particularly in Bologna Q15. Musically 
+<REF ENTITY="0" MENTION="15" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ mass movements are fairly simple, using three voices, head motif technique, and avoiding imitative writing. Some of 
+<REF ENTITY="0" MENTION="16" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ other sacred music, such as 
+<REF ENTITY="0" MENTION="17" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ Marian motets, contain florid melodic writing and some use of imitation.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="18" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ also wrote secular music, including ballades and rondeaux, all of which are in French, as well as a few shorter sacred pieces. Some of them refer to specific events or specific people, but none of either have been conclusively identified.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Arnold de Lantins's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_first">Arnold's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_family">Lantins's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name">Arnold de Lantins</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_first">Arnold</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name_family">Lantins</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="0,3" REG08-TYPE="common" CASE="plain" TAG="plain_common">the two composers</REFEX>
+<REFEX ENTITY="0,3" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="0,3" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">them</REFEX>
+<REFEX ENTITY="0,3" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">their</REFEX>
+<REFEX ENTITY="0,3" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">they</REFEX>
+<REFEX ENTITY="0,3" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="common" CASE="genitive" TAG="genitive_common">that composer's</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="genitive" TAG="genitive_name_short">Dufay's</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="name" CASE="plain" TAG="plain_name_short">Dufay</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="1" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Pope Martin V's</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="name" CASE="plain" TAG="plain_name">Pope Martin V</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="2" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Hugo de Lantins's</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="name" CASE="plain" TAG="plain_name">Hugo de Lantins</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="3" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="4" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="4" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Gilles Binchois's</REFEX>
+<REFEX ENTITY="4" REG08-TYPE="name" CASE="plain" TAG="plain_name">Gilles Binchois</REFEX>
+<REFEX ENTITY="4" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="4" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="4" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="4" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="5" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="5" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Johannes Ciconia's</REFEX>
+<REFEX ENTITY="5" REG08-TYPE="name" CASE="plain" TAG="plain_name">Johannes Ciconia</REFEX>
+<REFEX ENTITY="5" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="5" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="5" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="5" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+<REFEX ENTITY="6" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="6" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Zacara da Teramo's</REFEX>
+<REFEX ENTITY="6" REG08-TYPE="name" CASE="plain" TAG="plain_name">Zacara da Teramo</REFEX>
+<REFEX ENTITY="6" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="6" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="6" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="6" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

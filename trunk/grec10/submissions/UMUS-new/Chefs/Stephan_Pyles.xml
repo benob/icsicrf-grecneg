@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="926">
+<TITLE>Stephan Pyles</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Stephan Pyles</REFEX></REF>
+ is one of the founding fathers of Southwestern Cuisine, after more than 25 years in Dallas’ restaurant circuit, and 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ was the creator of New Texas Cuisine.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Pyles</REFEX></REF>
+ has received numerous awards and much acclaim in 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ native Texas and across the nation. A fifth-generation Texan, 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was the first from 
+<REF MENTION="6" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ state to be inducted into The James Beard Foundation’s Who’s Who of Food and Beverage in America, and Bon Appetit has credited 
+<REF MENTION="7" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX></REF>
+ with “almost single-handedly changing the cooking scene in Texas.” The New York Times has called 
+<REF MENTION="8" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX></REF>
+ “an absolute genius in the kitchen”.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ hosts the Emmy award winning PBS Television series "New Tastes from Texas", and 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ is the author of four books on Southwestern cooking.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Pyles's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Stephan Pyles's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Pyles</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Stephan Pyles</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

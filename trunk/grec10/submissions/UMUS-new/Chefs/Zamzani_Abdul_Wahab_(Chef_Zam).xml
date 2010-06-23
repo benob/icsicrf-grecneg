@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="930">
+<TITLE>Zamzani Abdul Wahab (Chef Zam)</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Zamzani Abdul Wahab</REFEX></REF>
+, popularly known as Chef Zam is currently the Head of Special Projects at KDU College's School of Hospitality, Tourism &amp; Culinary Arts, Selangor, Malaysia for the past 11 years. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ holds an Associate of Science degree in Hotel-Restaurant Management and a Bachelor’s degree in Hotel-Restaurant/Institutional Management (both from Johnson &amp; Wales University, Providence, United States), as well as a Master of Arts degree in Hospitality Management from Thames Valley University in London. 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is also the one and only celebrity chef in Malaysia with a Post-Graduate qualification to date.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Among 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ successful TV programs &amp; TV commercials:
+</PARAGRAPH>
+
+<PARAGRAPH>
+#Garam Gula 
+#Romancing February
+#Rahsia Rasa... MMVitaOils
+#Aroma Selebriti... MMVitaOils
+#Ole-Ole Malaysia
+#The Malaysian Invasions (USA)
+#Sucre Fest met Chef Zam (The Nederlands) 
+#Pasangan Ideal
+#Serimas...Selera Dunia
+#Chef Pilihan S&amp;P Santan
+#Berat Badan Unggul
+#Tak Tahan
+#Chef Selebriti Reality TV (Suria TV, Singapore)
+#The Flaming Chef (USA)
+#Kuih Raya: Juara Antara Kolej 2008
+#KanCheong Kitchen
+#Sajian Ramadhan 2008
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Zamzani Abdul Wahab's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Zamzani Abdul Wahab</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

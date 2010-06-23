@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="956">
+<TITLE>John Jenkins (composer)</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">the aged Jenkins</REFEX></REF>
+ (1592 - 1678), English composer, was born in Maidstone, Kent, and 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ died at Kimberley, Norfolk.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Little is known of 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ early life. The son of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="1">a carpenter who occasionally made musical instruments</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Henry Jenkins</REFEX></REF>
+, 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+ may have been 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">the "Jack Jenkins" employed in the household of <REF MENTION="?" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX REG08-TYPE="name" CASE="plain">Anne, Countess of Warwick</REFEX></REF> in 1603</REFEX></REF>
+. The first positive historical record of 
+<REF MENTION="5" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+ is amongst the musicians who performed the Masque The Triumph of Peace in 1634 at the court of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">King Charles I</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+The English Civil War that broke out in 1642 forced 
+<REF MENTION="6" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+, as it did many others, to migrate to the rural countryside. During the dark days of the 1640s 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was employed as music-master to two Royalist families, the Derhams at West Derham and Harmon L'Estrange of Hunstanton. 
+<REF MENTION="8" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was a friend of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">the composer William Lawes</REFEX></REF>
+ (1602-1645), 
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX></REF>
+ was shot and died in battle at the siege of Chester.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Around 1640 
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ revived the In Nomine, an archaic form for consort of viols, based upon a traditional plainsong theme. 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ wrote a notable piece of programme music consisting of a pavane and galliard depicting the clash of opposing sides, the mourning for the dead and the celebration of victory after the siege of Newark (1646).
+</PARAGRAPH>
+
+<PARAGRAPH>
+In the 1650s 
+<REF MENTION="11" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ became resident music-master of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="6"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Lord Dudley North</REFEX></REF>
+ in Cambridgeshire, 
+<REF MENTION="1" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="7"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">Roger North</REFEX></REF>
+ wrote 
+<REF MENTION="12" SYNFUNC="subj-det_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+ biography. It was in these years, during the Commonwealth under 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="8"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">Oliver Cromwell</REFEX></REF>
+, in the absence of much competition or organised music-making, that 
+<REF MENTION="13" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+ took the occasion to write more than 70 suites for amateur household players.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="14" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+ played the lute and 
+<REF MENTION="15" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ was a virtuoso upon the lyra viol. After the Restoration 
+<REF MENTION="16" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ obtained a place as a musician to the Royal Court. 
+<REF MENTION="17" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ played the lyra viol for 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="9"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="9">King Charles II</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="9"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="9">who</REFEX></REF>
+ wryly complimented 
+<REF MENTION="18" SYNFUNC="obj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX></REF>
+ that 
+<REF MENTION="19" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ did "wonders on an inconsiderable instrument". 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="7"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">he</REFEX></REF>
+ wrote:
+</PARAGRAPH>
+
+<PARAGRAPH>
+Tho' he for many years was incapable to attend, the Court musicians had so much value for him, that advantage was not taken, but he received his salary as they were paid.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="20" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+ retired under the patronage of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="11"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="11">Sir Philip Wodehouse</REFEX></REF>
+ of Kimberley, where 
+<REF MENTION="21" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ met 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="12"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="12">Sir Thomas Browne</REFEX></REF>
+. Although 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="13"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="13">the musicologist Wilfred Mellers</REFEX></REF>
+ claimed that 
+<REF MENTION="1" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="14"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="14">J.S. Bach's</REFEX></REF>
+ Orchestral Suites No. 3 and No. 4 in D major (BWV 1068-69) recalled the sensibility of 
+<REF MENTION="2" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="12"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="12">Sir Thomas Browne</REFEX></REF>
+, 
+<REF MENTION="22" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ music is much closer historically to an aural representation of the sensibility of 
+<REF MENTION="3" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="12"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="12">Sir Thomas Browne</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Something of 
+<REF MENTION="23" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Jenkins's</REFEX></REF>
+ own temperament is indicated by 
+<REF MENTION="24" SYNFUNC="subj_ger-part" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ setting the religious poetry of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="15"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="15">George Herbert</REFEX></REF>
+ to music. Like 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="16"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="16">Haydn</REFEX></REF>
+, 
+<REF MENTION="25" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+ was a pious, reticent, and private person. Workmanlike and industrious in composition, 
+<REF MENTION="26" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ wrote dances "by the cart-load", according to 
+<REF MENTION="3" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="7"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">North</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="27" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+ was a long-active and prolific composer 
+<REF MENTION="28" SYNFUNC="subj-det_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ many years of life, spanning the time from 
+<REF MENTION="1" SYNFUNC="obj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="17"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="17">William Byrd</REFEX></REF>
+ to 
+<REF MENTION="1" SYNFUNC="obj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="18"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="18">Henry Purcell</REFEX></REF>
+, witnessed great changes in English music. 
+<REF MENTION="29" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is noted for developing the consort fantasia for viols, being influenced in the 1630s by an earlier generation of English composers including 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="19"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="19">Alfonso Ferrabosco the younger</REFEX></REF>
+, 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="20"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="20">Thomas Lupo</REFEX></REF>
+, 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="21"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="21">John Coprario</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="10"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="10">Orlando Gibbons</REFEX></REF>
+. 
+<REF MENTION="30" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ composed numerous 4, 5, and 6 part Fantasias for viol consort, Almans, Courants and Pavanes, and 
+<REF MENTION="31" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ breathed new life into the antiquated form of the In Nomine. 
+<REF MENTION="32" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was less experimental than 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">he</REFEX></REF>
+; indeed, 
+<REF MENTION="34" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ music was more conservative than that of many of 
+<REF MENTION="35" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ contemporaries. It is characterised by a sensuous lyricism, highly skilled craftsmanship, and an original usage of tonality and counterpoint.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="7"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">North</REFEX></REF>
+ wrote of 
+<REF MENTION="37" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+:
+</PARAGRAPH>
+
+<PARAGRAPH>
+he was certainly a happy person,....of an easy temper, superior in his profession, well accepted by all, knew no want, saw himself outrun by the world, and having lived a good Christian, died in peace.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="38" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX></REF>
+ is buried in the nave of St. Peter's church, Kimberley, Norfolk, with this inscription:
+</PARAGRAPH>
+
+<PARAGRAPH>
+:Under this Stone Rare Jenkins lie
+:The Master of the Musick Art
+:Whom from the Earth the God on High
+:Called up to Him to bear his part.
+:Aged eighty six October twenty seven
+:In anno seventy eight he went to Heaven.
+:In God We Trust.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Jenkins's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">John Jenkins's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">the aged Jenkins's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jenkins</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">John Jenkins</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">the aged Jenkins</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">whose</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1">a carpenter who occasionally made musical instruments</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Henry Jenkins's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Henry Jenkins</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="10">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="10">Orlando Gibbons's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="10">Orlando Gibbons</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="10">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="10">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="10">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="10">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="11">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="11">Sir Philip Wodehouse's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="11">Sir Philip Wodehouse</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="11">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="11">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="11">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="11">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="12">this physician-philosopher</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="12">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="12">Sir Thomas Browne's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="12">Sir Thomas Browne</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="12">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="12">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="12">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="12">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="13">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="13">the musicologist Wilfred Mellers's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="13">the musicologist Wilfred Mellers</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="13">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="13">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="13">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="13">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="14">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="14">J.S. Bach's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="14">J.S. Bach</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="14">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="14">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="14">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="14">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="15">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="15">George Herbert's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="15">George Herbert</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="15">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="15">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="15">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="15">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="16">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="16">Haydn's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="16">Haydn</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="16">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="16">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="16">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="16">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="17">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="17">William Byrd's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="17">William Byrd</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="17">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="17">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="17">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="17">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="18">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="18">Henry Purcell's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="18">Henry Purcell</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="18">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="18">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="18">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="18">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="19">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="19">Alfonso Ferrabosco the younger's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="19">Alfonso Ferrabosco the younger</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="19">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="19">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="19">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="19">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Anne, Countess of Warwick</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="20">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="20">Thomas Lupo's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="20">Thomas Lupo</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="20">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="20">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="20">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="20">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="21">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="21">John Coprario's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="21">John Coprario</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="21">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="21">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="21">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="21">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">the "Jack Jenkins" employed in the household of<REF MENTION="?" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"></REF>in 1603</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">King Charles I's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">King Charles I</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="5"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>friend William Lawes</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">the composer William Lawes's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">the composer William Lawes</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="6">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="6">Lord Dudley North's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Lord Dudley North</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="6">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="6">his</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="6">whose</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="7"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>biographer North</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="7"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="6"></REF>son Roger</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="7">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="7">North's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="7">Roger North's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">North</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">Roger North</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="7">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="7">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="8">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="8">Oliver Cromwell's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">Oliver Cromwell</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="8">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="8">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="9">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="9">King Charles II's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="9">King Charles II</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="9">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="9">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="9">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="9">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

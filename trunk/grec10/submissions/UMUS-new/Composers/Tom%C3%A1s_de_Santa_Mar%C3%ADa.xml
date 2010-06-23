@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="968">
+<TITLE>Tomás de Santa María</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Tomás de Santa María</REFEX></REF>
+ (also Tomás de Sancta Maria) (d. 1570) was a Spanish music theorist, organist and composer of the Renaissance. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was born in Madrid but the date is highly uncertain; 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ died in Ribadavia. Little is known about 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ life except that 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ joined the Dominican order of friars in 1536, 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was employed as an organist in various locales in mid-century, and 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ published 
+<REF MENTION="8" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ major work, Arte de tañer fantasía, in Valladolid in 1565.
+</PARAGRAPH>
+
+<PARAGRAPH>
+This book is a comprehensive work on keyboard technique of the time. Its principal aim is to teach how to improvise in a fugal style, but to get to that point, difficult to the most accomplished musicians of any age, 
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ includes detailed treatments of the rudiments of music, the eight church modes, ornaments, touch, articulation, fingering, and counterpoint, including a categorization of four-note chords, rather similar to what 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Pietro Aron</REFEX></REF>
+ had written several decades before in Italy (which work 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ may have used as a source). The classification of chords is especially significant for this is the period in music history during which composers began to think in terms of harmonic progression as a generative mechanism rather than purely the happenstance of intersecting, independent melodic lines. 
+<REF MENTION="11" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ book also gives instruction for creating music using the paired imitation technique of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Josquin des Prez</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="obj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Josquin des Prez</REFEX></REF>
+<REF MENTION="12" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ clearly held to be the master of the style.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="13" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ writings were influential both inside of Spain and throughout the rest of Europe, as can be seen by the numerous early Baroque music theorists (for example 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Dámaso Artufel</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Pietro Cerone</REFEX></REF>
+) who plagiarized 
+<REF MENTION="14" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX></REF>
+.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Santa María's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Tomás de Santa María's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Santa María</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Tomás de Santa María</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Pietro Aron's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Pietro Aron</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Josquin des Prez's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Josquin des Prez</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Dámaso Artufel's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Dámaso Artufel</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">Pietro Cerone's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Pietro Cerone</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

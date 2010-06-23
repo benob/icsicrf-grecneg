@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="935">
+<TITLE>Antonius Romanus</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Antonius Romanus</REFEX></REF>
+ (fl. 1400 – 1432) was an Italian composer of the early 15th century, the early quattrocento, in which musical styles was in transition between the late medieval era and early Renaissance.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Few details are known about 
+<REF MENTION="2" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ life. Judging from 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ name, 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ may have been from Rome, and there are several records of 
+<REF MENTION="5" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ activity as a singer at St. Mark's in Venice between 1420 and 1432. 
+<REF MENTION="6" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ music appears to have been strongly influenced by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Johannes Ciconia</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX></REF>
+ died in 1412, and it also seems to have been an influence on 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">the young Guillaume Dufay</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX></REF>
+ was in Italy during most of 
+<REF MENTION="7" SYNFUNC="subj-det_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ later period of known activity.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Six sacred compositions and one secular piece by 
+<REF MENTION="8" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Antonius</REFEX></REF>
+ have survived. The three mass movements, two Glorias and a Credo, all for four voices, are influenced by 
+<REF MENTION="3" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Johannes Ciconia</REFEX></REF>
+; the three motets, also for four voices, are isorhythmic. All three can be approximately dated. The first, Ducalis sedes/Stirps Mocenigo, can be dated to 1414 or 1415, since it is written in praise of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Tommaso Mocenigo</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX></REF>
+ was elected doge of Venice in 1414. The second, Carminibus festos/O requies populi, was written for 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">the doge Francesco Foscari</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX></REF>
+ assumed the post in 1423. The last, Aurea flammigera, 
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Antonius</REFEX></REF>
+ most likely wrote in praise of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Gianfrancesco Gonzaga</REFEX></REF>
+ on 
+<REF MENTION="2" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">his</REFEX></REF>
+ triumphant return from Milan in 1432. 
+<REF MENTION="10" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Antonius's</REFEX></REF>
+ single remaining secular composition is a ballata, Deh s'i t'amo con fede; only one voice survives from this composition, and it is without text.
+</PARAGRAPH>
+
+<PARAGRAPH>
+The similarities of style of some of 
+<REF MENTION="11" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ music to 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX></REF>
+ earliest works suggest that 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,2"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="0,2">the two</REFEX></REF>
+ may have crossed paths, or at least known each other's works.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Antonius Romanus's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Antonius's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Antonius Romanus</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Antonius</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="0,2">the two</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0,2">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0,2">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,2">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,2">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Ciconia's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Johannes Ciconia's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Ciconia</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Johannes Ciconia</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Dufay's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">the young Guillaume Dufay's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Dufay</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">the young Guillaume Dufay</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Tommaso Mocenigo's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Tommaso Mocenigo</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">the doge Francesco Foscari's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">the doge Francesco Foscari</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">Gianfrancesco Gonzaga's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">Gianfrancesco Gonzaga</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

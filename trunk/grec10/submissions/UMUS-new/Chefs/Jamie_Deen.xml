@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="912">
+<TITLE>Jamie Deen</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jamie Deen</REFEX></REF>
+ (born June 29, 1967 in Albany, Georgia, U.S.) is a chef and restaurateur.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is best known as one of the sons of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Paula Deen</REFEX></REF>
+. With 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Bobby</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Bobby</REFEX></REF>
+, 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ runs 
+<REF MENTION="2" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Paula Deen's</REFEX></REF>
+ restaurant, The Lady &amp; Sons, in Savannah, Georgia. 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ also frequently appears on 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">her</REFEX></REF>
+ show, Paula's Home Cooking. 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX></REF>
+ have had 
+<REF MENTION="1" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0,2"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,2">their</REFEX></REF>
+ own program, Road Tasted, since July 11, 2006.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="9" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Deen</REFEX></REF>
+ married 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Brooke Terry</REFEX></REF>
+ on March 5, 2005. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">she</REFEX></REF>
+ attended Georgia Southern University and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX></REF>
+ was a member of Zeta Tau Alpha. On August 21, 2006, 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,3"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,3">they</REFEX></REF>
+ welcomed 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Jack Linton</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Jack Linton</REFEX></REF>
+.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Deen's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Jamie Deen's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Deen</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Jamie Deen</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0,2">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0,2">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,2">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,2">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0,3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0,3">the Deens'</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0,3">the Deens</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0,3">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,3">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,3">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,3">who</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="common" ENTITY="1"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>mother's</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Paula Deen's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Paula Deen</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="2"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"></REF>brother</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Bobby's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Bobby</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Brooke Terry's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Brooke Terry</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="4"><REF MENTION="?" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0,3"></REF>first son</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">Jack Linton's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">Jack Linton</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

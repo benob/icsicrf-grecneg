@@ -1,0 +1,59 @@
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="930">
+<TITLE>Zamzani Abdul Wahab (Chef Zam)</TITLE>
+
+<PARAGRAPH>
+<REF ENTITY="0" MENTION="1" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="plain_name" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name" NEW="yes">Zamzani Abdul Wahab</REFEX>
+</REF>
+, popularly known as Chef Zam is currently the Head of Special Projects at KDU College's School of Hospitality, Tourism &amp; Culinary Arts, Selangor, Malaysia for the past 11 years. 
+<REF ENTITY="0" MENTION="2" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ holds an Associate of Science degree in Hotel-Restaurant Management and a Bachelor’s degree in Hotel-Restaurant/Institutional Management (both from Johnson &amp; Wales University, Providence, United States), as well as a Master of Arts degree in Hospitality Management from Thames Valley University in London. 
+<REF ENTITY="0" MENTION="3" SEMCAT="person" SYNCAT="np" SYNFUNC="subj" PREDICTION="nominative_pronoun_he" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he" NEW="yes">he</REFEX>
+</REF>
+ is also the one and only celebrity chef in Malaysia with a Post-Graduate qualification to date.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Among 
+<REF ENTITY="0" MENTION="4" SEMCAT="person" SYNCAT="np" SYNFUNC="subj-det" PREDICTION="genitive_pronoun_his" CHOICE="1">
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his" NEW="yes">his</REFEX>
+</REF>
+ successful TV programs &amp; TV commercials:
+</PARAGRAPH>
+
+<PARAGRAPH>
+#Garam Gula 
+#Romancing February
+#Rahsia Rasa... MMVitaOils
+#Aroma Selebriti... MMVitaOils
+#Ole-Ole Malaysia
+#The Malaysian Invasions (USA)
+#Sucre Fest met Chef Zam (The Nederlands) 
+#Pasangan Ideal
+#Serimas...Selera Dunia
+#Chef Pilihan S&amp;P Santan
+#Berat Badan Unggul
+#Tak Tahan
+#Chef Selebriti Reality TV (Suria TV, Singapore)
+#The Flaming Chef (USA)
+#Kuih Raya: Juara Antara Kolej 2008
+#KanCheong Kitchen
+#Sajian Ramadhan 2008
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX ENTITY="0" REG08-TYPE="empty" CASE="no_case" TAG="no_case_empty">_</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="genitive" TAG="genitive_name">Zamzani Abdul Wahab's</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="name" CASE="plain" TAG="plain_name">Zamzani Abdul Wahab</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="accusative" TAG="accusative_pronoun_him">him</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="genitive" TAG="genitive_pronoun_his">his</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_he">he</REFEX>
+<REFEX ENTITY="0" REG08-TYPE="pronoun" CASE="nominative" TAG="nominative_pronoun_who">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

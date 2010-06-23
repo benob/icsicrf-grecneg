@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="975">
+<TITLE>Edwin Beard Budding</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Edwin Beard Budding</REFEX></REF>
+ (1795-1846), an engineer from Stroud, Gloucestershire, was the English inventor of the lawnmower (1830) and adjustable spanner.
+</PARAGRAPH>
+
+<PARAGRAPH>
+Born in Stroud, Gloucestershire, 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was an engineer. In 1830 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ invented the lawn mower and the first adjustable spanner. 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ got the idea after seeing a machine in a local cloth mill which used a cutting cylinder (or bladed reel) mounted on a bench to trim cloth to make a smoothie finish after weaving. 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ realised that a similar concept would enable the cutting of grass if the mechanism could be mounted in a wheeled frame to make the blades rotate close to the lawn's surface. 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ went into partnership with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">John Ferrabee</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">John Ferrabee</REFEX></REF>
+, and together 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0,1"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1">they</REFEX></REF>
+ made mowers in a factory at Thrupp near Stroud, Gloucestershire. Examples of the early Budding type mowers can be seen in Stroud Museum, the London Science Museum and at Milton Keynes Museum.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Budding's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Edwin Beard Budding's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Edwin Budding's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Budding</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Edwin Beard Budding</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Edwin Budding</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0,1">_</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0,1">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0,1">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0,1">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1">a local engineer</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">John Ferrabee's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">John Ferrabee</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

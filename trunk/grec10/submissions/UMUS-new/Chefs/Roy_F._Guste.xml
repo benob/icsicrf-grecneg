@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="923">
+<TITLE>Roy F. Guste</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Roy F. Guste, Jr.</REFEX></REF>
+ is the author of 10 Louisiana French-Creole cuisine cookbooks and a past fifth generation proprietor of New Orleans' famed Antoine's Restaurant, established in 1840. 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+, a noted Creole culinary historian and resident of the historic French Quarter of New Orleans for more than three decades, grew up in the Garden District, New Orleans and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX></REF>
+ studied at the Le Cordon Bleu. 
+<REF MENTION="4" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is a contributor to the nationally released multi-award-winning book Orleans Embrace with the Secret Gardens of the Vieux Carré, a compendium with 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">TJ Fisher</REFEX></REF>
+ and 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Louis Sahuc</REFEX></REF>
+. The commemorative edition garnered double gold at the prestigious Publishers Marketing Association PMA Benjamin Franklin Awards 2007 for “The Best New Voice Nonfiction” and “The Bill Fisher Award for Best First Book Nonfiction.” The book received 10 national book awards. 
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ is the nephew of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Louisiana's longest-serving Attorney General William J. Guste</REFEX></REF>
+.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Guste's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Guste</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Roy F. Guste, Jr.</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">TJ Fisher's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">TJ Fisher</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Louis Sahuc's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Louis Sahuc</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Louisiana's longest-serving Attorney General William J. Guste's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Louisiana's longest-serving Attorney General William J. Guste</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="991">
+<TITLE>Mary the Jewess</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Maria the Jewess</REFEX></REF>
+ (or Maria Prophetissima, Maria Prophetissa, Mary Prophetissa, Miriam the Prophetess) is estimated to have lived anywhere between the first and third centuries A.D. Several sources equate 
+<REF MENTION="2" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Maria</REFEX></REF>
+ to 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Miriam, the sister of <REF MENTION="?" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="9"><REFEX REG08-TYPE="name" CASE="plain">Moses</REFEX></REF> </REFEX></REF>
+, or even to 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Mary Magdalene</REFEX></REF>
+.
+</PARAGRAPH>
+
+<PARAGRAPH>
+The most concrete mention of 
+<REF MENTION="3" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Maria's</REFEX></REF>
+ name in the context of alchemy is by 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Zosimos of Panopolis</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="subj_rel-clause" SYNCAT="np" SEMCAT="person" ENTITY="3"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX></REF>
+ wrote in the 4th century the oldest alchemy books known. 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">the legendary Greek writer Ostanes</REFEX></REF>
+ mentions 
+<REF MENTION="4" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Maria</REFEX></REF>
+ as "the daughter of the king of Saba." In the Alexander book (2d part) of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="5"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">the Persian poet Nezami</REFEX></REF>
+, 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="6"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="6">a Syrian princess</REFEX></REF>
+, 
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="6"><REFEX CASE="plain" REG08-TYPE="common" ENTITY="6">a Syrian princess</REFEX></REF>
+, visits the court of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="7"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">Alexander the Great</REFEX></REF>
+, and 
+<REF MENTION="3" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="6"><REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="6">_</REFEX></REF>
+ learns from 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="8"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">Aristotle</REFEX></REF>
+, among other things, the art of making gold. Whatever the epoch of 
+<REF MENTION="5" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Maria</REFEX></REF>
+ may have been, 
+<REF MENTION="6" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Maria's</REFEX></REF>
+ existence is a positive fact.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Maria the Jewess's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Maria's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Maria the Jewess</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Maria</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Miriam, the sister of<REF MENTION="?" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="9"></REF></REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">Mary Magdalene's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">Mary Magdalene</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3">Zosimos of Panopolis's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3">Zosimos of Panopolis</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="4">the legendary Greek writer Ostanes's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="4">the legendary Greek writer Ostanes</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="4">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="4">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="4">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="5">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="5">the Persian poet Nezami's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="5">the Persian poet Nezami</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="5">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="5">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="5">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="6">a Syrian princess</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="6">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="6">Maria's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="6">Maria</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="6">her</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="6">her</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">she</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="6">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="7">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="7">Alexander the Great's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="7">Alexander the Great</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="7">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="7">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="7">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="8">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="8">Aristotle's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="8">Aristotle</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="8">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="8">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="8">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="9">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="9">Moses's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="9">Moses</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="9">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="9">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="9">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="9">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>

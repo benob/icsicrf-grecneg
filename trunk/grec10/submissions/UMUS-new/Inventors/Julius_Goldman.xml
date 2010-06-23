@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE GREC-ITEM SYSTEM "genchal09-grec.dtd">
+<GREC-ITEM>
+<TEXT ID="986">
+<TITLE>Julius Goldman</TITLE>
+
+<PARAGRAPH>
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Julius "Goldie" Goldman</REFEX></REF>
+ (born September 22, 1910, in Mayesville, South Carolina, and died February 19, 2001, in Detroit, Michigan) was a Canadian basketball player.
+</PARAGRAPH>
+
+<PARAGRAPH>
+A father of modern basketball, Canada's representative on the 1936 Olympic Basketball Rules Committee, 
+<REF MENTION="2" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Goldman</REFEX></REF>
+ suggested the elimination of the basketball rule that called for a "jump ball" after every field goal. The 1936 games marked basketball's first appearance in the Olympics. The Rules Committee agreed with 
+<REF MENTION="3" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Julius</REFEX></REF>
+ (the lone objecting vote was that of 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Dr. James Naismith</REFEX></REF>
+<REF MENTION="2" SYNFUNC="app-supp" SYNCAT="np" SEMCAT="person" ENTITY="1"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Dr. James Naismith</REFEX></REF>
+), and the game was forever changed. This rule change has been credited with modernizing basketball; speeding up the pace of the game, increasing scoring and making teams with shorter centers more competitive. In 1958, 
+<REF MENTION="1" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="2"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">NCAA rules committee chairman Ed Steitz</REFEX></REF>
+ credited 
+<REF MENTION="4" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Goldman's</REFEX></REF>
+ rule change as the most radical change in the entire evolution of basketball.
+</PARAGRAPH>
+
+<PARAGRAPH>
+<REF MENTION="5" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Goldman</REFEX></REF>
+ was born in 1910 in Mayesville, South Carolina to 
+<REF MENTION="1" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="3,4"><REFEX CASE="plain" REG08-TYPE="name" ENTITY="3,4">Lithuanian immigrants Isaac and Rebecca Goldman</REFEX></REF>
+. The family moved to Canada when 
+<REF MENTION="6" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was two. 
+<REF MENTION="7" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ captained and was the leading scorer for the Windsor Ford V-8's team that won Canada's 1935–36 national championship, qualifying them to represent Canada in the 1936 Berlin Olympics. However, 
+<REF MENTION="8" SYNFUNC="subj-det" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX></REF>
+ U.S. citizenship made 
+<REF MENTION="9" SYNFUNC="obj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX></REF>
+ ineligible to play for another country, so 
+<REF MENTION="10" SYNFUNC="subj" SYNCAT="np" SEMCAT="person" ENTITY="0"><REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX></REF>
+ was made an assistant coach and appointed Canada's representative to the Olympic Basketball Rules Committee. The Canadian Basketball team won a silver medal.
+</PARAGRAPH>
+</TEXT>
+
+<ALT-REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="0">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Goldman's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Julius "Goldie" Goldman's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Julius Goldman's</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="0">Julius's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Goldman</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Julius "Goldie" Goldman</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Julius Goldman</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="0">Julius</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="0">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="0">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="0">who</REFEX>
+<REFEX CASE="plain" REG08-TYPE="common" ENTITY="1">basketball's creator</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="1">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="1">Dr. James Naismith's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="1">Dr. James Naismith</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="1">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="1">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="1">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="2">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="2">NCAA rules committee chairman Ed Steitz's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="2">NCAA rules committee chairman Ed Steitz</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="2">him</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="2">his</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">he</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="2">who</REFEX>
+<REFEX CASE="no_case" REG08-TYPE="empty" ENTITY="3,4">_</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="name" ENTITY="3,4">Lithuanian immigrants Isaac and Rebecca Goldman's</REFEX>
+<REFEX CASE="plain" REG08-TYPE="name" ENTITY="3,4">Lithuanian immigrants Isaac and Rebecca Goldman</REFEX>
+<REFEX CASE="accusative" REG08-TYPE="pronoun" ENTITY="3,4">them</REFEX>
+<REFEX CASE="genitive" REG08-TYPE="pronoun" ENTITY="3,4">their</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3,4">they</REFEX>
+<REFEX CASE="nominative" REG08-TYPE="pronoun" ENTITY="3,4">who</REFEX>
+</ALT-REFEX>
+</GREC-ITEM>
